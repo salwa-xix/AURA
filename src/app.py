@@ -246,8 +246,7 @@ period = st.sidebar.selectbox("Month", periods, index=len(periods) - 1)
 
 st.sidebar.markdown("<div class='hr'></div>", unsafe_allow_html=True)
 st.sidebar.markdown(
-    "<div class='small-muted'>"
-    "</div>",
+    "<div class='small-muted'></div>",
     unsafe_allow_html=True,
 )
 
@@ -901,6 +900,7 @@ else:
         st.markdown("</div>", unsafe_allow_html=True)
 
 # Footer
+
 st.markdown("<div class='hr'></div>", unsafe_allow_html=True)
 st.markdown(
     "<div class='small-muted'></div>",

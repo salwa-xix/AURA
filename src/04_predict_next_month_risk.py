@@ -11,7 +11,7 @@ DATA_DIR = Path("data")
 IN_SCORES = DATA_DIR / "company_monthly_scores.csv"
 OUT = DATA_DIR / "company_risk_predictions.csv"
 
-# 1) Proper time-based split:
+# 1) Proper time-based split
 #    Train on earlier months, test on the latest N months
 N_TEST_MONTHS = 3
 

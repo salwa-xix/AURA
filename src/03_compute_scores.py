@@ -24,7 +24,7 @@ def winsorize(s: pd.Series, p=0.99) -> pd.Series:
     return s.clip(upper=cap)
 
 
-# Choose "bad" utilization metrics (higher = worse)
+# Choose "bad"utilization metrics (higher = worse)
 
 bad1 = df["avoidable_er_rate"]  # share within ER (quality issue)
 

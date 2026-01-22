@@ -34,7 +34,7 @@ claims["avoidable_er"] = (
     (claims["is_er"] == 1) & (claims["admission_flag"] == 0)
 ).astype(int)
 
-# 3) Company-month KPIs
+# 3) Company month KPIs
 monthly = (
     claims.groupby(["company_id", "period"])
     .agg(

@@ -6,7 +6,6 @@ import pandas as pd
 np.random.seed(42)
 
 # Paths
-
 DATA_DIR = Path("data")
 PROV_CLEAN = DATA_DIR / "provider_clean.csv"
 
