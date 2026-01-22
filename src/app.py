@@ -6,12 +6,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-# Page config
 st.set_page_config(page_title="AURA", page_icon="●", layout="wide")
 
 DATA_DIR = Path("data")
-
-# Helpers
 
 
 def safe_read_csv(path: Path, dtype=None):
@@ -52,27 +49,25 @@ def kpi_delta(curr, prev):
     return (curr - prev) / abs(prev)
 
 
-THEMES = {
-    "Dark": {
-        "bg": "#071019",
-        "panel": "rgba(255,255,255,0.06)",
-        "panel2": "rgba(255,255,255,0.04)",
-        "border": "rgba(148,163,184,0.18)",
-        "text": "#E8EEF7",
-        "muted": "rgba(232,238,247,0.72)",
-        "grid": "rgba(148,163,184,0.18)",
-        "brand": "#00B140",
-        "brand2": "#00A7B5",
-        "danger": "#FF4D4F",
-        "warn": "#FFB020",
-        "ok": "#22C55E",
-        "shadow": "rgba(0,0,0,0.35)",
-    },
+THEME = {
+    "bg": "#071019",
+    "panel": "rgba(255,255,255,0.06)",
+    "panel2": "rgba(255,255,255,0.04)",
+    "border": "rgba(148,163,184,0.18)",
+    "text": "#E8EEF7",
+    "muted": "rgba(232,238,247,0.72)",
+    "grid": "rgba(148,163,184,0.18)",
+    "brand": "#00B140",
+    "brand2": "#00A7B5",
+    "danger": "#FF4D4F",
+    "warn": "#FFB020",
+    "ok": "#22C55E",
+    "shadow": "rgba(0,0,0,0.35)",
 }
 
 
-def apply_theme(theme_name: str):
-    t = THEMES[theme_name]
+def apply_theme():
+    t = THEME
     st.markdown(
         f"""
 <style>
@@ -91,29 +86,34 @@ def apply_theme(theme_name: str):
   --ok: {t["ok"]};
   --shadow: {t["shadow"]};
 }}
+
 [data-testid="stAppViewContainer"] {{
   background: radial-gradient(1200px 700px at 15% 8%, rgba(0,177,64,0.10), transparent 55%),
               radial-gradient(1000px 600px at 85% 10%, rgba(0,167,181,0.10), transparent 55%),
               var(--bg);
 }}
+
 [data-testid="stSidebar"] {{
   background: linear-gradient(180deg, rgba(0,177,64,0.08), transparent 22%),
               linear-gradient(180deg, rgba(0,167,181,0.06), transparent 30%),
               var(--bg);
   border-right: 1px solid var(--border);
 }}
+
 h1,h2,h3,h4,h5,h6,p,div,span,label {{
   color: var(--text) !important;
 }}
+
 .small-muted {{
   color: var(--muted) !important;
   font-size: 0.92rem;
 }}
+
 .hr {{
   border-bottom: 1px solid var(--border);
   margin: 0.9rem 0 1.0rem 0;
 }}
-/* Premium cards */
+
 .card {{
   background: var(--panel);
   border: 1px solid var(--border);
@@ -121,6 +121,7 @@ h1,h2,h3,h4,h5,h6,p,div,span,label {{
   padding: 14px 16px;
   box-shadow: 0 14px 34px var(--shadow);
 }}
+
 .card-glow {{
   position: relative;
   overflow: hidden;
@@ -132,49 +133,53 @@ h1,h2,h3,h4,h5,h6,p,div,span,label {{
               radial-gradient(420px 160px at 80% 0%, rgba(0,167,181,0.18), transparent 65%);
   pointer-events:none;
 }}
+
 .card-title {{
   font-size: 0.86rem;
   color: var(--muted) !important;
   margin-bottom: 6px;
 }}
+
 .card-value {{
   font-size: 1.55rem;
   font-weight: 900;
   line-height: 1.1;
   letter-spacing: -0.02em;
 }}
+
 .card-sub {{
   font-size: 0.92rem;
   color: var(--muted) !important;
   margin-top: 6px;
 }}
+
 .pill {{
   display:inline-flex;
   align-items:center;
   gap:8px;
   padding: 6px 10px;
   border-radius: 999px;
-
   font-weight: 800;
   font-size: 0.84rem;
 }}
+
 .dot {{
   width:10px; height:10px;
   border-radius: 999px;
   background: var(--brand);
   box-shadow: 0 0 0 4px rgba(0,177,64,0.16);
 }}
-.pill-high .dot {{ background: var(--danger); box-shadow: 0 0 0 4px rgba(255,77,79,0.16); }}
-.pill-med .dot  {{ background: var(--warn); box-shadow: 0 0 0 4px rgba(255,176,32,0.16); }}
-.pill-low .dot  {{ background: var(--ok); box-shadow: 0 0 0 4px rgba(34,197,94,0.16); }}
 
-/* Buttons */
+.pill-high .dot {{ background: var(--danger); box-shadow: 0 0 0 4px rgba(255,77,79,0.16); }}
+.pill-med .dot  {{ background: var(--warn);   box-shadow: 0 0 0 4px rgba(255,176,32,0.16); }}
+.pill-low .dot  {{ background: var(--ok);     box-shadow: 0 0 0 4px rgba(34,197,94,0.16); }}
+
 .stButton>button {{
   border-radius: 14px;
   border: 1px solid var(--border);
   padding: 0.6rem 0.9rem;
 }}
-/* Dataframe minimal */
+
 [data-testid="stDataFrame"] {{
   border: 1px solid var(--border);
   border-radius: 14px;
@@ -219,12 +224,12 @@ def load_all():
 
 scores, preds, kpis, seg = load_all()
 
+# Apply fixed theme
+apply_theme()
+T = THEME
 
-st.sidebar.markdown("## Settings")
-theme = st.sidebar.radio("Theme", ["Dark"], horizontal=True)
-apply_theme(theme)
-T = THEMES[theme]
 
+st.sidebar.markdown("## Controls")
 st.sidebar.markdown("<div class='hr'></div>", unsafe_allow_html=True)
 
 view = st.sidebar.selectbox(
@@ -245,12 +250,8 @@ company = st.sidebar.selectbox("Company", companies)
 period = st.sidebar.selectbox("Month", periods, index=len(periods) - 1)
 
 st.sidebar.markdown("<div class='hr'></div>", unsafe_allow_html=True)
-st.sidebar.markdown(
-    "<div class='small-muted'></div>",
-    unsafe_allow_html=True,
-)
 
-# Snapshot for selected company/month
+
 row_s = scores[(scores.company_id == company) & (scores.period == period)]
 row_k = kpis[(kpis.company_id == company) & (kpis.period == period)]
 row_p = preds[(preds.company_id == company) & (preds.period == period)]
@@ -278,10 +279,15 @@ avoid_cost = float(row_k.avoidable_er_cost.iloc[0]) if not row_k.empty else np.n
 er_per100 = (
     float(row_k.er_visits_per_100_members.iloc[0]) if not row_k.empty else np.nan
 )
+
 members_ct = (
     int(row_k.member_count.iloc[0])
     if not row_k.empty
-    else (int(row_s.member_count.iloc[0]) if not row_s.empty else 0)
+    else (
+        int(row_s.member_count.iloc[0])
+        if (not row_s.empty and "member_count" in row_s.columns)
+        else 0
+    )
 )
 
 risk_prob = None if row_p.empty else float(row_p.risk_probability_next_month.iloc[0])
@@ -293,7 +299,6 @@ er_curr, er_prev = get_prev(kpis, "er_visits_per_100_members")
 avc_curr, avc_prev = get_prev(kpis, "avoidable_er_cost")
 
 # Header
-
 st.markdown("# AURA Early Warning")
 st.markdown(
     f"<div class='small-muted'>A visual, decision ready view of <b>avoidable ER utilization</b> impact and next month risk. "
@@ -301,9 +306,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# ---------------------------
-# KPI Row (fancy)
-# ---------------------------
+# KPI Row
 c1, c2, c3, c4, c5 = st.columns([1.35, 1, 1, 1.2, 1.25], gap="large")
 
 
@@ -369,9 +372,7 @@ with c5:
 st.markdown("<div class='hr'></div>", unsafe_allow_html=True)
 
 
-# ---------------------------
-# Plotly style helper
-# ---------------------------
+# Plotly helpers
 def style_plot(fig, height=380, y_range=None):
     fig.update_layout(
         height=height,
@@ -390,7 +391,6 @@ def style_plot(fig, height=380, y_range=None):
 
 
 def donut(value, title):
-    # value expected 0..1
     v = 0 if value is None or pd.isna(value) else float(value)
     v = max(0, min(1, v))
     fig = go.Figure(
@@ -430,9 +430,7 @@ def donut(value, title):
     return fig
 
 
-# ===========================
 # VIEW 1 — Executive Overview
-# ===========================
 if view == "Executive Overview":
     left, right = st.columns([1.7, 1], gap="large")
 
@@ -458,7 +456,6 @@ if view == "Executive Overview":
                 use_container_width=True,
             )
         with d2:
-            # Risk gauge-like bar
             rp = 0 if risk_prob is None else float(risk_prob)
             rp = max(0, min(1, rp))
             g = go.Figure(
@@ -494,6 +491,7 @@ if view == "Executive Overview":
 
         st.markdown("<div class='hr'></div>", unsafe_allow_html=True)
         st.markdown("### Top driver (this month)")
+
         seg_f = seg[(seg.company_id == company) & (seg.period == period)].copy()
         if seg_f.empty:
             st.markdown(
@@ -551,9 +549,7 @@ if view == "Executive Overview":
 
         st.markdown("</div>", unsafe_allow_html=True)
 
-# ===========================
 # VIEW 2 — Company Deep Dive
-# ===========================
 elif view == "Company Deep Dive":
     st.markdown("### Company Deep Dive")
     tabs = st.tabs(["Utilization", "Costs", "ER Mix"])
@@ -608,8 +604,6 @@ elif view == "Company Deep Dive":
     with tabs[2]:
         st.markdown("<div class='card'>", unsafe_allow_html=True)
         st.markdown("#### ER composition (avoidable vs admitted)")
-        # Create a stacked bar for the month breakdown if possible using kpis totals
-        # We only have total_er_visits and avoidable_er_visits; admitted ER = total - avoidable (approx)
         tmp = t.copy()
         tmp["admitted_er_visits"] = (
             tmp["total_er_visits"] - tmp["avoidable_er_visits"]
@@ -628,14 +622,11 @@ elif view == "Company Deep Dive":
             title="ER visits mix (per month)",
             barmode="stack",
         )
-        fig.update_layout(coloraxis_showscale=False)
         fig = style_plot(fig, height=440)
         st.plotly_chart(fig, use_container_width=True)
         st.markdown("</div>", unsafe_allow_html=True)
 
-# ===========================
 # VIEW 3 — Drivers (Where & Who)
-# ===========================
 elif view == "Drivers (Where & Who)":
     st.markdown("### Drivers — Where & Who (selected month)")
     seg_f = seg[(seg.company_id == company) & (seg.period == period)].copy()
@@ -673,7 +664,6 @@ elif view == "Drivers (Where & Who)":
             fig = style_plot(fig, height=430)
             st.plotly_chart(fig, use_container_width=True)
 
-            # small bubble chart for cost vs visits
             figb = px.scatter(
                 agg,
                 x="visits",
@@ -684,7 +674,6 @@ elif view == "Drivers (Where & Who)":
             )
             figb = style_plot(figb, height=320)
             st.plotly_chart(figb, use_container_width=True)
-
             st.markdown("</div>", unsafe_allow_html=True)
 
         with col2:
@@ -711,7 +700,6 @@ elif view == "Drivers (Where & Who)":
             fig2 = style_plot(fig2, height=500)
             st.plotly_chart(fig2, use_container_width=True)
 
-            # only a tiny table for copy/paste (optional)
             with st.expander("Show table"):
                 show = prov.copy()
                 show["cost"] = show["cost"].round(0).astype(int)
@@ -719,14 +707,11 @@ elif view == "Drivers (Where & Who)":
 
             st.markdown("</div>", unsafe_allow_html=True)
 
-# ===========================
-# VIEW 4 — Portfolio Monitor
-# ===========================
+# VIEW 4 —Portfolio Monitor
 elif view == "Portfolio Monitor":
     st.markdown("### Portfolio Monitor (selected month)")
     col1, col2 = st.columns([1.2, 1], gap="large")
 
-    # Risk distribution donut
     snap = scores[scores.period == period].copy()
     counts = (
         snap["risk_band"]
@@ -762,7 +747,6 @@ elif view == "Portfolio Monitor":
 
     with col2:
         st.markdown("<div class='card'>", unsafe_allow_html=True)
-        # Top 15 by lowest IVI (most risky)
         top = snap.sort_values("IVI").head(15)
         fig2 = px.bar(
             top, x="company_id", y="IVI", title="Lowest IVI companies (priority list)"
@@ -774,7 +758,6 @@ elif view == "Portfolio Monitor":
 
     st.markdown("<div class='hr'></div>", unsafe_allow_html=True)
 
-    # Region + Network portfolio drivers using segmentation (all companies)
     seg_m = seg[seg.period == period].copy()
     a, b = st.columns(2, gap="large")
 
@@ -818,9 +801,7 @@ elif view == "Portfolio Monitor":
         st.plotly_chart(fig, use_container_width=True)
         st.markdown("</div>", unsafe_allow_html=True)
 
-# ===========================
-# VIEW 5 — Prediction Center
-# ===========================
+# VIEW 5  Prediction Center
 else:
     st.markdown("### Prediction Center (Next-month High Risk)")
 
@@ -856,6 +837,7 @@ else:
         st.markdown("#### Selected company probability trend")
         pc = preds[preds.company_id == company].sort_values("period").copy()
         pc["month"] = pc["period"].apply(period_label)
+
         if pc.empty:
             st.info("No prediction history for this company.")
         else:
@@ -874,7 +856,6 @@ else:
 
             st.markdown("<div class='hr'></div>", unsafe_allow_html=True)
             st.markdown("#### Explanation (drivers)")
-            # show a simple explanation text based on current month values
             expl = []
             if pd.notna(avoid_rate) and avoid_rate >= 0.75:
                 expl.append(
@@ -900,9 +881,5 @@ else:
         st.markdown("</div>", unsafe_allow_html=True)
 
 # Footer
-
 st.markdown("<div class='hr'></div>", unsafe_allow_html=True)
-st.markdown(
-    "<div class='small-muted'></div>",
-    unsafe_allow_html=True,
-)
+st.markdown("<div class='small-muted'></div>", unsafe_allow_html=True)
