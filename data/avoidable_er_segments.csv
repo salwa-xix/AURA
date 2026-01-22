@@ -1,0 +1,800 @@
+company_id,period,PROVIDER_NETWORK,PROVIDER_PRACTICE,PROVIDER_REGION,PROVIDER_TOWN,PROV_NAME,avoidable_er_visits,avoidable_er_cost
+C001,202501,J. ONW,Hospital,Central,Riyadh,Al Mobarak Hospital,1,2381.42
+C001,202501,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Faridabad,1,659.81
+C001,202501,L. NWS,Hospital,Central,Riyadh,Al Jazeera Hospital,1,1751.3
+C001,202502,I. SPA,Hospital,Northern,Sakaka,Maternity and Children Hospital - Jouf (MoH),1,1319.59
+C001,202502,L. NWS,Hospital,Central,Riyadh,Dar Al Shifa Hospital,1,497.55
+C001,202505,J. ONW,Hospital,Western,Jeddah,KAEC - Dr SFH,1,1104.58
+C001,202507,I. SPA,Hospital,Overseas,Kuwait,Dar Al Shifa Hospital - Kuwait,1,1373.86
+C001,202507,I. SPA,Hospital,Southern,Najran,King Khalid Hospital - Najran (MoH),1,2118.03
+C001,202507,J. ONW,Hospital,Southern,Hubuna,Hubuna General Hospital - MoH,1,482.78
+C001,202508,I. SPA,Hospital,Eastern,Al Hasa,Al Omran General Hospital - Al Hasa (MoH),1,894.91
+C001,202508,I. SPA,Hospital,Western,Madinah,Khayber General Hospital - MoH,1,348.61
+C001,202509,I. SPA,Hospital,Western,Rabigh,Rabigh General Hospital - MoH,1,707.42
+C001,202510,D. NW3,Hospital,Overseas,India,Fortis Hospital - Noida,1,519.48
+C001,202510,J. ONW,Hospital,Southern,Baljurashi,Al Sarah Hospital,1,784.23
+C001,202512,I. SPA,Hospital,Eastern,Khafji,Al Khafji General Hospital - MoH,1,822.04
+C001,202512,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Riyadh Care Hospital),1,934.78
+C002,202501,D. NW3,Hospital,Central,Riyadh,Family Care Hospital,1,318.21
+C002,202501,F. NW5,Hospital,Central,Riyadh,Inter Health Medical Company,1,1289.5
+C002,202501,H. NW7,Hospital,Central,Riyadh,Dr Soliman Fakeeh Hospital - Riyadh,1,378.23
+C002,202501,I. SPA,Hospital,Central,Al Badaya'a,Al Badaya General Hospital - MoH,1,1318.63
+C002,202501,J. ONW,Hospital,Central,Riyadh,King Salman Center for Renal Diseases (MOH),1,650.0
+C002,202501,J. ONW,Hospital,Western,Jeddah,Al Mostaqbal Hospital,1,2054.5
+C002,202502,J. ONW,Hospital,Western,Ranyah,Ranih General Hospital - MOH,1,141.34
+C002,202503,I. SPA,Hospital,Overseas,Qatar,Kims Medical Center - Qatar,1,1049.02
+C002,202503,I. SPA,Hospital,Southern,Dhahran Al Janoub,Dahran Al Jonub General Hospital -Aseer (MOH),1,1212.38
+C002,202504,H. NW7,Hospital,Central,Riyadh,Dallah Hospital - Namar,1,28.24
+C002,202504,J. ONW,Hospital,Overseas,Kuwait,Al Manar Medical Center,1,1241.26
+C002,202504,J. ONW,Hospital,Overseas,Manama,Bahrain Specialized Hospital Clinics,1,1193.55
+C002,202505,F. NW5,Hospital,Southern,Khamis Mushayt,Al Hayah National Hospital - Khamis Mushyat,1,205.18
+C002,202505,H. NW7,Hospital,Central,Riyadh,Dr Suliman Al Habib Medical Center Co,1,870.41
+C002,202505,J. ONW,Hospital,Central,Ar Russ,Azzaeyd Hospital,1,939.26
+C002,202506,F. NW5,Hospital,Southern,Abha,Abha Private Hospital,1,1688.73
+C002,202506,G. NW6,Hospital,Western,Jeddah,Dr Erfan & Bagedo General Hospital,1,2511.26
+C002,202506,I. SPA,Hospital,Northern,Sakaka,Suwair General Hospital - MOH,1,1822.63
+C002,202506,J. ONW,Hospital,Western,Jeddah,Al Mashfa International for Medical Services Company,1,874.9
+C002,202507,G. NW6,Hospital,Eastern,Dammam,Saudi German Hospital - Dammam,1,136.13
+C002,202507,J. ONW,Hospital,Western,Jeddah,Al Mostaqbal Hospital,1,678.55
+C002,202507,J. ONW,Hospital,Western,Turbah,Tuorbah General Hospital - MOH,1,233.71
+C002,202508,H. NW7,Hospital,Western,Jeddah,Dr Sulaiman Al Habib Hospital - Al Mohammadiyah,1,15.39
+C002,202508,I. SPA,Hospital,Southern,Al Namas,Al Namas General Hospital -Aseer (MOH),1,1817.32
+C002,202508,I. SPA,Hospital,Southern,Gizan,Faifa General Hospital - MOH,1,1640.39
+C002,202509,J. ONW,Hospital,Overseas,Qatar,Aspetar Orthopaedic & Sports Medicine Hospital,1,1340.27
+C002,202510,A. NWR,Hospital,Western,Makkah,Al Saedy Hospital,1,651.55
+C002,202510,H. NW7,Hospital,Northern,Neom,Dr Soliman Fakeeh Hospital - Neom,1,2010.52
+C002,202510,J. ONW,Hospital,Northern,Qrayat,Al Hadithah General Hospital - MoH,1,266.33
+C002,202511,J. ONW,Hospital,Overseas,Kuwait,Taiba Specialized Clinics - Fintas,1,206.8
+C002,202512,D. NW3,Hospital,Overseas,India,Fortis S.L. Raheja Hospital - Mahim - Mumbai,1,681.64
+C002,202512,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Hyderguda - Hyderabad - India,1,1390.0
+C003,202501,H. NW7,Hospital,Central,Riyadh,Sehat Al Hamra Health Care Company - Dr SHMG - Al Hamra,1,2448.11
+C003,202502,D. NW3,Hospital,Overseas,India,Fortis Hospital - Cunningham Road - Bangalore,1,1122.63
+C003,202502,I. SPA,Hospital,Eastern,Jubail,Jubail General Hospital (MoH),1,788.01
+C003,202502,I. SPA,Hospital,Overseas,"Dubai, UAE",Canadian Specialist Hospital,1,415.26
+C003,202503,A. NWR,Hospital,Western,Jeddah,New Al Jedaani Hospital - Ghulil,1,2168.03
+C003,202503,H. NW7,Hospital,Overseas,Abu Dhabi,Magrabi Specialized Hospital - Abu Dhabi,1,1092.86
+C003,202503,J. ONW,Hospital,Western,Ranyah,Ranih General Hospital - MOH,1,1855.55
+C003,202504,I. SPA,Hospital,Central,Al Shinan,Al Shannan General Hospital - MOH,1,2555.2
+C003,202505,H. NW7,Hospital,Central,Riyadh,Al Rayan Hospital for Healthcare Co,1,600.97
+C003,202505,H. NW7,Hospital,Overseas,Amman,Jordan Hospital,1,846.72
+C003,202505,I. SPA,Hospital,Central,Hail,Maternity and Children Hospital - Hail (MOH),1,2528.27
+C003,202505,I. SPA,Hospital,Central,Riyadh,King Abdullah Bin Abdulaziz University Hospital - Riyadh,1,3370.29
+C003,202505,I. SPA,Hospital,Eastern,Dammam,Maternity and Child Hospital - Dammam (MOH),1,243.93
+C003,202506,I. SPA,Hospital,Eastern,Khafji,Al Khafji General Hospital - MoH,1,2397.92
+C003,202507,I. SPA,Hospital,Western,Yanbu,Yanbu General Hospital  - MoH,1,574.82
+C003,202507,J. ONW,Hospital,Overseas,Manama,Al Kindi Specialised Hospital,1,1706.24
+C003,202509,J. ONW,Hospital,Western,Makkah,Ibn Sina Hospital - Makkah (MoH),1,449.42
+C003,202510,H. NW7,Hospital,Overseas,Amman,Al Jazeera Hospital - Jordan,1,388.18
+C003,202511,D. NW3,Hospital,Overseas,India,Fortis Hospital - Seshadripuram - Bangalore,1,904.16
+C003,202511,G. NW6,Hospital,Eastern,Khobar,Al Salam Hospital - Khobar,1,2911.27
+C003,202511,H. NW7,Hospital,Overseas,Manama,University Medical Center - Bahrain (Ex Dr Suliman Al Habib - Bahrain,1,2371.74
+C003,202512,I. SPA,Hospital,Eastern,Urairah,Prince Sultan Hospital - Urai'rah (MoH),1,449.06
+C003,202512,I. SPA,Hospital,Western,Makkah,King Abdulaziz Hospital - Makkah (MoH),1,2423.42
+C003,202512,J. ONW,Hospital,Southern,Najran,Najran General Hospital - MoH,1,451.97
+C004,202501,I. SPA,Hospital,Southern,Ahad Al Masarha,Ahad Al Masarha General Hospital - Gazan - MOH,1,396.55
+C004,202502,I. SPA,Hospital,Central,Hail,Al Shamly General Hospital - MOH,1,2091.59
+C004,202503,L. NWS,Hospital,Central,Riyadh,Al Azhar Hospital,1,983.88
+C004,202505,I. SPA,Hospital,Central,Al Muzahmiya,Al Muzahmiyah General Hospital - Riyadh -MOH,1,104.31
+C004,202506,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Noida - India,1,841.96
+C004,202506,J. ONW,Hospital,Western,Al Muwayh,Al Muwayh General Hospital -  MOH,1,1713.81
+C004,202507,F. NW5,Hospital,Northern,Tabuk,Prince Fahad Bin Sultan Hospital,1,1627.37
+C004,202507,I. SPA,Hospital,Western,Taif,Children's Hospital - Taif (MoH),1,212.82
+C004,202508,I. SPA,Hospital,Eastern,Hofuf,King Fahad Hospital - Hofuf (MoH),1,1430.41
+C004,202508,I. SPA,Hospital,Overseas,Korea,Sun Medical Center,1,1896.25
+C004,202508,I. SPA,Hospital,Western,Madinah,Ohud Hospital - Madinah (MoH),1,1320.2
+C004,202508,J. ONW,Hospital,Central,Riyadh,Prince Sultan Military Medical City,1,1663.75
+C004,202508,J. ONW,Hospital,Overseas,Oman,Magrabi Hospital - Muscat,1,1467.85
+C004,202508,J. ONW,Hospital,Western,Madinah,Al Ejlal Private Hospital,1,2118.17
+C004,202509,I. SPA,Hospital,Western,Yanbu,Yanbu General Hospital  - MoH,1,2547.46
+C004,202510,H. NW7,Hospital,Overseas,"Dubai, UAE",International Modern Hospital,1,216.36
+C004,202511,F. NW5,Hospital,Central,Riyadh,Inter Health Medical Company,1,1555.39
+C004,202511,H. NW7,Hospital,Overseas,Manama,International Hospital of Bahrain,1,1042.62
+C004,202511,H. NW7,Hospital,Western,Jeddah,Andalusia Hospital,1,1291.53
+C004,202512,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  - Goa,1,404.04
+C005,202501,G. NW6,Hospital,Western,Jeddah,Al Salama Hospital - Jeddah,1,1368.38
+C005,202501,I. SPA,Hospital,Southern,Muhayel,Muhayel General Hospital ( MOH),1,1301.44
+C005,202502,D. NW3,Hospital,Western,Jeddah,New Jeddah Clinic Hospital,1,339.86
+C005,202502,J. ONW,Hospital,Northern,Shoubat Nsab,Shoubat Nsab General Hospital - MoH,1,2375.08
+C005,202502,J. ONW,Hospital,Overseas,India,Indian Spinal Injures Center,1,1934.58
+C005,202503,I. SPA,Hospital,Northern,Arar,Maternity and Children Hospital - Arar (MoH),1,133.18
+C005,202504,J. ONW,Hospital,Overseas,"Dubai, UAE",New Medical Center LLC,1,3118.04
+C005,202505,H. NW7,Hospital,Central,Al Kharj,Dr Sulaiman Al Habib Hospital - Al Kharj,1,1988.82
+C005,202505,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic - Parkview,1,3328.84
+C005,202505,I. SPA,Hospital,Southern,Gizan,Eradah Mental Diseases Hospital - MOH,1,1309.15
+C005,202505,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Dallah Hospital),1,865.75
+C005,202505,L. NWS,Hospital,Western,Makkah,Saudi National Hospital,1,2908.64
+C005,202506,I. SPA,Hospital,Central,Riyadh,King Fahad Medical City - MOH,1,652.12
+C005,202507,I. SPA,Hospital,Eastern,Hafr Al Batin,King Khalid Hospital - Hafr Al Batin (MoH),1,4754.64
+C005,202507,J. ONW,Hospital,Southern,Baljurashi,Ghodran General Hospital,1,1067.32
+C005,202509,I. SPA,Hospital,Southern,Baish,Bish General Hospital - MoH,1,1402.9
+C005,202510,J. ONW,Hospital,Central,Sajer,Sajer General Hospital - (MOH),1,2165.06
+C005,202511,I. SPA,Hospital,Eastern,Al Hasa,King Faisal General Hospital - MOH,1,439.95
+C006,202501,J. ONW,Hospital,Western,Taif,Al Hada Armed Forces Hospital,1,944.95
+C006,202502,D. NW3,Hospital,Central,Riyadh,Magrabi Hospital - Riyadh,1,1350.16
+C006,202503,D. NW3,Hospital,Overseas,India,Fortis Hospital & Kidney Institute - Rash Behari Avenue - Kolkata,1,2867.08
+C006,202505,I. SPA,Hospital,Northern,Tabuk,King Fahad Specialist Hospital - Tabuk (MoH),1,849.15
+C006,202506,I. SPA,Hospital,Eastern,Dammam,Rafiya General Hospital- MOH,1,1762.59
+C006,202507,I. SPA,Hospital,Eastern,Al Hasa,Al Oyun City Hospital - Al Hasa - MOH,1,637.0
+C006,202507,I. SPA,Hospital,Western,Yanbu Industrial,Royal Commission Medical Center - Yanbu,1,289.62
+C006,202510,D. NW3,Hospital,Southern,Gizan,Al Hayah National Hospital - Jazan,1,979.4
+C006,202510,D. NW3,Hospital,Western,Taif,Al Amen Hospital,1,1033.56
+C006,202510,G. NW6,Hospital,Overseas,Cairo,As Salam International Hospital a?? AL Kattamya,1,165.21
+C006,202510,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic Welcare Hospital,1,1938.24
+C006,202511,J. ONW,Hospital,Western,Jeddah,Al Salam International Hospital (Jeddah),1,780.95
+C006,202512,D. NW3,Hospital,Overseas,India,Fortis S.L. Raheja Hospital - Mahim - Mumbai,1,728.6
+C006,202512,I. SPA,Hospital,Northern,Rafha'a,Rafhaa General Hospital - MoH,1,1701.46
+C006,202512,J. ONW,Hospital,Northern,Qrayat,Al Isawiyah General Hospital - MoH,1,623.46
+C006,202512,J. ONW,Hospital,Overseas,Qatar,Magrabi Hospital - Doha,1,1177.71
+C006,202512,J. ONW,Hospital,Western,Jeddah,Dr Abdullah Saim Al Dahr Hospital,1,805.17
+C007,202501,F. NW5,Hospital,Southern,Khamis Mushayt,Al Hayah National Hospital - Khamis Mushyat,1,2612.46
+C007,202501,J. ONW,Hospital,Central,Riyadh,Aldara Hospital and Medical Center,1,4715.25
+C007,202502,H. NW7,Hospital,Western,Jeddah,Saudi German Hospital - Al Rawabi,1,1617.87
+C007,202503,D. NW3,Hospital,Overseas,India,Fortis Hospital - Rajajinagar - Bangalore,1,2181.69
+C007,202503,I. SPA,Hospital,Southern,Samtah,Samtah General Hospital - MoH,1,2281.47
+C007,202504,I. SPA,Hospital,Western,Makkah,King Faisal Hospital (MOH),1,91.82
+C007,202505,I. SPA,Hospital,Overseas,Manama,American Mission Hospital,1,4027.47
+C007,202506,L. NWS,Hospital,Central,Riyadh,Green Crescent Hospital,1,989.65
+C007,202507,H. NW7,Hospital,Overseas,Manama,International Hospital of Bahrain,1,1858.07
+C007,202508,D. NW3,Hospital,Overseas,India,Fortis Hospital - Rajajinagar - Bangalore,1,849.29
+C007,202508,I. SPA,Hospital,Eastern,Al Mubaraz,Al Gabr Hospital for Ophthalmology and ENT - Al Ahsa (MOH),1,2625.16
+C007,202509,I. SPA,Hospital,Central,Riyadh,Imam Abdurahman Al Faisal Hospital - Riyadh (MoH),1,1139.95
+C007,202509,J. ONW,Hospital,Central,Al Dalm,Prince Salman Bin Mohammed Hospital - MoH,1,4337.75
+C007,202510,I. SPA,Hospital,Central,Al Kharj,King Khalid Hospital (Al Kharj) - MoH,1,1414.68
+C007,202510,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Riyadh Care Hospital),1,3270.57
+C007,202511,F. NW5,Hospital,Overseas,Cairo,Misr International Hospital,1,1920.6
+C007,202512,H. NW7,Hospital,Central,Riyadh,Sehat Al Swedi for Healthcare Company,1,821.11
+C007,202512,I. SPA,Hospital,Southern,Bisha,King Abdullah Hospital - Bisha (MoH),1,1307.13
+C007,202512,I. SPA,Hospital,Western,Madinah,Maternity and Child Hospital - Madinah - MoH,1,1771.52
+C008,202501,A. NWR,Hospital,Western,Makkah,Al Saedy Hospital,1,2694.8
+C008,202501,J. ONW,Hospital,Overseas,India,Indian Spinal Injures Center,1,750.97
+C008,202502,G. NW6,Hospital,Eastern,Dammam,Al Mouwasat Hospital - Dammam,1,696.38
+C008,202502,I. SPA,Hospital,Eastern,Khobar,King Fahad Hospital of the University - Al Khobar,1,3370.32
+C008,202503,L. NWS,Hospital,Central,Riyadh,Al Jazeera Hospital,1,1008.65
+C008,202504,D. NW3,Hospital,Overseas,India,Fortis La Femme Greater Kailash II - New Delhi,1,1735.67
+C008,202504,H. NW7,Hospital,Overseas,"Dubai, UAE",Cedars - Jebel Ali International Hospital,1,1270.29
+C008,202504,H. NW7,Hospital,Overseas,"Dubai, UAE",International Modern Hospital,1,1625.99
+C008,202504,I. SPA,Hospital,Overseas,Cairo,International Medical Center - Egypt,1,2808.69
+C008,202505,I. SPA,Hospital,Eastern,Dammam,King Fahad Specialist Hospital - Dammam -MoH,1,8173.11
+C008,202505,J. ONW,Hospital,Overseas,Kuwait,Taiba Specialized Clinics - Farwaniya,1,2299.9
+C008,202506,F. NW5,Hospital,Western,Jeddah,Aya Specialist Hospital,1,3755.52
+C008,202506,I. SPA,Hospital,Central,Bureidah,Qassim University Medical City,1,1784.18
+C008,202506,I. SPA,Hospital,Southern,Khubash,Khubash General Hospital - MoH,1,679.78
+C008,202506,J. ONW,Hospital,Overseas,Spain,La Zarzuela Hospital - Madrid (Spain),1,779.1
+C008,202507,H. NW7,Hospital,Overseas,Manama,Al Noor Specialist Hospital - Bahrain,1,1371.86
+C008,202507,I. SPA,Hospital,Central,Al Muzahmiya,Al Muzahmiyah General Hospital - Riyadh -MOH,1,2112.62
+C008,202508,B. NW1,Hospital,Western,Yanbu Industrial,Yanbu National Hospital,1,2733.01
+C008,202508,D. NW3,Hospital,Overseas,India,Fortis Hospital - Cunningham Road - Bangalore,1,237.03
+C008,202508,H. NW7,Hospital,Central,Riyadh,Al Gharb Al Takhassusi Hospital For Healthcare Co,1,4748.26
+C008,202508,J. ONW,Hospital,Central,Riyadh,Aldara Hospital and Medical Center,1,4275.32
+C008,202509,B. NW1,Hospital,Southern,Muhayel,Al Modawat Specialized Medical Hospital,1,1439.17
+C008,202509,F. NW5,Hospital,Overseas,Pakistan,Shifa International Hospitals Ltd,1,2554.9
+C008,202509,I. SPA,Hospital,Central,Riyadh,Al Iman General Hospital - MOH,1,2552.67
+C008,202509,I. SPA,Hospital,Western,Jeddah,Maternity and Children's Specialized Hospital in Jeddah - MoH,1,698.42
+C008,202510,D. NW3,Hospital,Southern,Najran,Specialized Najran Medical Hospital,1,931.85
+C008,202511,B. NW1,Hospital,Eastern,Khobar,Mohammad Dossary Hospital,1,823.0
+C008,202512,H. NW7,Hospital,Overseas,Beirut,American University of Beirut - Medical Center,1,1528.48
+C008,202512,H. NW7,Hospital,Overseas,India,Apollo Hospitals - Jubilee Hills - Hyderabad - India,1,1757.69
+C008,202512,J. ONW,Hospital,Central,Riyadh,Al Hayat National Hospital  NWS,1,1466.97
+C008,202512,J. ONW,Hospital,Overseas,India,Fortis Malar Hospital - Adyar - Channai,1,2243.75
+C009,202501,F. NW5,Hospital,Eastern,Dammam,Al Mana General Hospital - Al Azizia,1,2839.38
+C009,202501,I. SPA,Hospital,Central,Hail,Al Shamly General Hospital - MOH,1,1322.84
+C009,202501,I. SPA,Hospital,Western,Madinah,King Faisal Specialist Hospital & Research Center -  Madina,1,1286.98
+C009,202502,A. NWR,Hospital,Overseas,Pakistan,Aga Khan Hospital For Woman - Karimabad,1,3407.79
+C009,202502,C. NW2,Hospital,Western,Makkah,Muhammed S. Basharahil Hospital,1,835.06
+C009,202502,I. SPA,Hospital,Eastern,Qatif,Prince Mohammed Bin Fahad General and Hematology Hospital - MOH,1,1265.83
+C009,202504,F. NW5,Hospital,Central,Riyadh,Specialized Medical Center & Hospital,1,3500.62
+C009,202504,F. NW5,Hospital,Eastern,Qatif,Al Mouwasat Hospital - Qatif,1,1421.62
+C009,202504,H. NW7,Hospital,Central,Riyadh,Al Gharb Al Takhassusi Hospital For Healthcare Co,1,2174.43
+C009,202504,I. SPA,Hospital,Southern,Al Namas,Al Namas General Hospital -Aseer (MOH),1,710.9
+C009,202504,L. NWS,Hospital,Southern,Khamis Mushayt,TADAWI MEDICAL HOSPITAL,1,2778.6
+C009,202505,F. NW5,Hospital,Central,Riyadh,Inter Health Medical Company,1,399.16
+C009,202506,A. NWR,Hospital,Central,Riyadh,Elite Hospital,1,2686.88
+C009,202506,H. NW7,Hospital,Overseas,"Dubai, UAE",Dr Sulaiman Al Habib Medical Center - Dubai,1,623.43
+C009,202506,I. SPA,Hospital,Southern,Al Qura,Al Qura General Hospital - MoH,1,1062.73
+C009,202506,I. SPA,Hospital,Southern,Sabya,Sabya General Hospital - Jizan (MoH),1,172.86
+C009,202507,I. SPA,Hospital,Northern,Umluj,Umluj General Hospital -Tabuk (MOH),1,1350.65
+C009,202507,J. ONW,Hospital,Western,Ranyah,Ranih General Hospital - MOH,1,507.31
+C009,202507,L. NWS,Hospital,Central,Hail,Al Anwar Medical Company,1,2766.16
+C009,202509,D. NW3,Hospital,Overseas,India,Fortis Hospital - Noida,1,1572.58
+C009,202509,D. NW3,Hospital,Overseas,Manama,Ibn Al-Nafees Hospital,1,314.67
+C009,202509,G. NW6,Hospital,Eastern,Khobar,Al Mouwasat Hospital - Al Khobar,1,1585.57
+C009,202509,G. NW6,Hospital,Overseas,"Dubai, UAE",Saudi German Hospital (SGH - Dubai),1,1333.57
+C009,202509,H. NW7,Hospital,Central,Riyadh,Dallah Hospital - Namar,1,1235.45
+C009,202511,D. NW3,Hospital,Overseas,India,Fortis Escorts Hospital - Amritsar,1,170.71
+C009,202511,I. SPA,Hospital,Eastern,Al Hasa,King Faisal General Hospital - MOH,1,469.55
+C009,202511,I. SPA,Hospital,Overseas,Kuwait,Al Seef Hospital,1,531.62
+C009,202511,J. ONW,Hospital,Eastern,Al Hasa,Al Jafr General Hospital - Al Ahsa - MOH,1,1277.15
+C009,202511,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Faridabad,1,1578.15
+C009,202511,J. ONW,Hospital,Overseas,Kuwait,Al Jraiwi Medical Center,1,4090.99
+C009,202511,J. ONW,Hospital,Western,Makkah,Alawi Tunsi & Bros. Hospital,1,961.7
+C010,202501,C. NW2,Hospital,Southern,Sabya,Al Emeis National Hospital,1,1075.44
+C010,202501,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Tondiarpet - Chennai - India,1,481.56
+C010,202502,I. SPA,Hospital,Western,Taif,King Faisal Medical Complex - Taif ( MOH),1,517.9
+C010,202502,J. ONW,Hospital,Eastern,Dammam,Al Rafiah General Hospital - (MOH),1,759.53
+C010,202503,J. ONW,Hospital,Overseas,"Dubai, UAE",Prime Medical Center,1,1267.13
+C010,202504,I. SPA,Hospital,Central,Riyadh,King Khalid Eye Specialist Hosapital (MoH),1,1722.0
+C010,202504,I. SPA,Hospital,Eastern,Urairah,Prince Sultan Hospital - Urai'rah (MoH),1,1906.97
+C010,202504,I. SPA,Hospital,Western,Jeddah,International Medical Center,1,1091.85
+C010,202505,I. SPA,Hospital,Southern,Al Aqiq,Al Aqiq Hospital - MoH,1,1547.64
+C010,202505,I. SPA,Hospital,Western,Madinah,Al Haram Hospital - Madina - MOH,1,1999.51
+C010,202506,I. SPA,Hospital,Northern,Al Jouf,King Abdulaziz Specialized Hospital - Al Jouf (MoH),1,939.36
+C010,202506,J. ONW,Hospital,Central,Riyadh,Al Mobarak Hospital,1,1201.34
+C010,202507,G. NW6,Hospital,Western,Jeddah,Saudi German Hospitals Group,1,641.47
+C010,202507,J. ONW,Hospital,Central,Riyadh,Al Hammadi Hospital,1,4817.01
+C010,202508,F. NW5,Hospital,Eastern,Qatif,Al Mouwasat Hospital - Qatif,1,453.79
+C010,202508,I. SPA,Hospital,Central,Afif,Afif General Hospital - MOH,1,896.76
+C010,202508,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Riyadh Care Hospital),1,670.98
+C010,202509,I. SPA,Hospital,Overseas,Oman,Burjeel Hospital - Oman,1,2305.19
+C010,202509,J. ONW,Hospital,Overseas,Amman,Amman Surgical Hospital,1,1333.68
+C010,202510,I. SPA,Hospital,Eastern,Dammam,Dammam Medical Complex (MOH),1,1353.44
+C010,202510,I. SPA,Hospital,Western,Jeddah,Maternity and Child Hospital - Aziziyah - MoH,1,3126.14
+C010,202511,I. SPA,Hospital,Eastern,Khafji,Al Khafji General Hospital - MoH,1,2255.48
+C010,202512,A. NWR,Hospital,Overseas,Pakistan,Aga Khan Hospital for Woman - Garden,1,1873.69
+C010,202512,I. SPA,Hospital,Western,Mahd Al Thahab,Al Mahd General Hospital - MoH,1,1937.3
+C010,202512,J. ONW,Hospital,Western,Jeddah,Jeddah National Hospital,1,699.3
+C011,202501,I. SPA,Hospital,Central,Riyadh,Prince Mohammed Bin Abdulaziz Hospital (Riyadh) - MOH,1,3769.3
+C011,202501,I. SPA,Hospital,Eastern,Dammam,Imam Abdurahman Al Faisal - Dammam - NGH,1,1385.2
+C011,202501,I. SPA,Hospital,Overseas,Bahrain,Bahrain Oncology Center,1,113.57
+C011,202501,I. SPA,Hospital,Overseas,Kuwait,Al Seef Hospital,1,226.79
+C011,202501,J. ONW,Hospital,Western,Jeddah,Fast Track - Dr Soliman Fakeeh Hospital,1,1330.99
+C011,202502,G. NW6,Hospital,Western,Jeddah,Dr Samir Abbas Hospital,1,405.64
+C011,202502,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic City Hospital,1,3879.92
+C011,202502,I. SPA,Hospital,Central,Riyadh,University Medical City in King Saud University,1,3388.37
+C011,202502,I. SPA,Hospital,Southern,Abha,Asser Central General Hospital - Abha (MoH),1,2381.89
+C011,202502,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  - Goa,1,2693.66
+C011,202503,B. NW1,Hospital,Eastern,Hafr Al Batin,Dr Noor Mohammed Khan Hospital,1,1581.35
+C011,202504,C. NW2,Hospital,Eastern,Dammam,Arrawda Hospital,1,1572.78
+C011,202504,I. SPA,Hospital,Eastern,Al Hasa,King Faisal General Hospital - MOH,1,602.01
+C011,202504,I. SPA,Hospital,Northern,Al Jouf,King Abdulaziz Specialized Hospital - Al Jouf (MoH),1,375.43
+C011,202504,J. ONW,Hospital,Overseas,London,BMI,1,1084.39
+C011,202504,J. ONW,Hospital,Overseas,Qatar,Magrabi Hospital - Doha,1,1217.36
+C011,202504,L. NWS,Hospital,Central,Riyadh,Obeid Specialist Hospital - Riyadh,1,1773.74
+C011,202505,D. NW3,Hospital,Overseas,India,Fortis Memorial Research Institute - Gurgaon,1,2021.17
+C011,202505,I. SPA,Hospital,Southern,Al Darb,Al Darb General Hospital - MoH,1,536.87
+C011,202506,D. NW3,Hospital,Western,Taif,Al Amen Hospital,1,644.53
+C011,202506,E. NW4,Hospital,Overseas,Manama,Al Amal Hospital - Bahrain,1,1004.85
+C011,202506,H. NW7,Hospital,Western,Makkah,Saudi German Hospital - Makkah,1,773.3
+C011,202506,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Kolkata,1,1045.03
+C011,202507,I. SPA,Hospital,Western,Makkah,Heraa General Hospital - Makkah - MOH,1,460.67
+C011,202507,J. ONW,Hospital,Central,Riyadh,Fast Track - Kingdom Hospital,1,188.17
+C011,202508,F. NW5,Hospital,Central,Riyadh,Kingdom Hospital,1,391.66
+C011,202508,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Indraprastha - New Delhi,1,3182.33
+C011,202511,I. SPA,Hospital,Central,Riyadh,University Medical City in King Saud University,1,1942.95
+C011,202511,I. SPA,Hospital,Northern,Domat Al Jandal,Domat Al Jandal Hospital - Al Jouf (MoH),1,1512.5
+C011,202511,J. ONW,Hospital,Northern,Tabuk,Al Badaa General Hospital - MOH,1,1262.38
+C011,202511,J. ONW,Hospital,Overseas,Kuwait,Al Hasawi Medical Center,1,568.28
+C011,202511,J. ONW,Hospital,Overseas,Manama,Al Kindi Specialised Hospital,1,642.9
+C011,202511,J. ONW,Hospital,Southern,Abha,Muhammed S. Basharahil Hospital (Not in Use),1,1452.37
+C011,202512,F. NW5,Hospital,Overseas,Cairo,Misr International Hospital,1,1735.22
+C011,202512,H. NW7,Hospital,Eastern,Jubail Industrial,Royal Commission for Jubail,1,685.2
+C011,202512,H. NW7,Hospital,Overseas,Manama,University Medical Center - Bahrain (Ex Dr Suliman Al Habib - Bahrain,1,749.81
+C011,202512,I. SPA,Hospital,Western,Madinah,Al Miqat General Hospital - Al Madinah -MOH,1,2481.44
+C011,202512,J. ONW,Hospital,Overseas,Beirut,Trad Hospital & Medical Center,1,1437.69
+C011,202512,J. ONW,Hospital,Overseas,"Dubai, UAE",Emirates Hospital L.L.C,1,1552.75
+C012,202501,D. NW3,Hospital,Overseas,India,Fortis Escorts Hospital - Faridabad,1,1821.36
+C012,202501,F. NW5,Hospital,Eastern,Jubail,Al Mana Medical Center - Jubail,1,493.88
+C012,202501,I. SPA,Hospital,Eastern,Al Mubaraz,Al Gabr Hospital for Ophthalmology and ENT - Al Ahsa (MOH),1,4716.02
+C012,202503,H. NW7,Hospital,Western,Jeddah,Andalusia Hospital,1,1903.27
+C012,202503,I. SPA,Hospital,Northern,Umluj,Umluj General Hospital -Tabuk (MOH),1,486.59
+C012,202504,I. SPA,Hospital,Western,Jeddah,Erada Complex  - MoH,1,1488.95
+C012,202505,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Andheri - Mumbai,1,753.44
+C012,202506,D. NW3,Hospital,Overseas,India,Fortis Hospital - Nagarbhavi - Bangalore,1,1058.17
+C012,202506,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Kolkata,1,1303.79
+C012,202507,D. NW3,Hospital,Central,Bureidah,Al Qasseem National Hospital - Bureidah,1,2078.23
+C012,202507,L. NWS,Hospital,Western,Jeddah,Abuzinadah Hospital,1,686.69
+C012,202508,H. NW7,Hospital,Central,Al Kharj,Dr Sulaiman Al Habib Hospital - Al Kharj,1,640.98
+C012,202508,I. SPA,Hospital,Southern,Gizan,Jazan General Hospital - MoH,1,1642.23
+C012,202509,I. SPA,Hospital,Central,Al Bukairiah,Al Bukairiah General Hospital - MOH,1,862.47
+C012,202509,J. ONW,Hospital,Eastern,Al Hasa,Al Gafer General Hospital - Al Ahsa ( MOH),1,1406.84
+C012,202510,I. SPA,Hospital,Northern,Arar,Prince Abdulaziz Bin Musa'ed Hospital - MOH,1,599.83
+C012,202510,J. ONW,Hospital,Central,Wadi Al Dawaser,Armed Forces Hospital in Wadi AlDowaser,1,612.17
+C012,202511,D. NW3,Hospital,Eastern,Hafr Al Batin,Al Maali Hospital,1,790.31
+C012,202511,I. SPA,Hospital,Eastern,Al Hasa,Salwa General Hospital - Al Ahsa - MOH,1,1367.18
+C013,202501,H. NW7,Hospital,Overseas,Cairo,Dar Al Foud Hospital,1,416.67
+C013,202501,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic Welcare Hospital,1,979.78
+C013,202501,J. ONW,Hospital,Overseas,"Dubai, UAE",New Medical Center LLC,1,636.95
+C013,202501,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  - Chennai,1,453.51
+C013,202502,G. NW6,Hospital,Overseas,Cairo,As Salam International Hospital,1,2050.91
+C013,202502,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic Welcare Hospital,1,1494.8
+C013,202502,I. SPA,Hospital,Overseas,Manama,Bahrain Defence Force (King Hamad University Hospital),1,578.93
+C013,202503,H. NW7,Hospital,Western,Makkah,Saudi German Hospital - Makkah,1,2788.33
+C013,202504,B. NW1,Hospital,Eastern,Dammam,Dar Afia Hospital,1,2645.4
+C013,202504,J. ONW,Hospital,Central,Riyadh,Al Rafaya Hospital - Jamash - MOH,1,461.67
+C013,202504,J. ONW,Hospital,Overseas,Beirut,Trad Hospital & Medical Center,1,3900.73
+C013,202504,J. ONW,Hospital,Southern,Ahad Rufaidah,Al Aqsa Hospital - Ahd Rofidah,1,272.85
+C013,202505,G. NW6,Hospital,Western,Jeddah,Al Salama Hospital - Jeddah,1,1672.02
+C013,202505,H. NW7,Hospital,Eastern,Jubail Industrial,Royal Commission for Jubail,1,1608.07
+C013,202505,I. SPA,Hospital,Southern,Gizan,Bani Malik General Hospital - MoH,1,1430.62
+C013,202506,A. NWR,Hospital,Western,Makkah,Al Saedy Hospital,1,554.16
+C013,202506,F. NW5,Hospital,Central,Riyadh,Specialized Medical Center & Hospital,1,366.3
+C013,202506,I. SPA,Hospital,Overseas,Oman,Kims Health Hospital - Oman,1,127.21
+C013,202506,L. NWS,Hospital,Western,Madinah,Dr Hamid S Al Ahmadi Hospital,1,4088.78
+C013,202507,A. NWR,Hospital,Western,Jeddah,Al Jedaani Hospital - Al Safa,1,5082.34
+C013,202507,B. NW1,Hospital,Eastern,Dammam,Dar Afia Hospital,1,817.06
+C013,202507,H. NW7,Hospital,Overseas,Kuwait,The New Mowasat Hospital,1,1146.64
+C013,202507,I. SPA,Hospital,Central,Al Zulfi,Al Zulfi General Hospital - MoH,1,688.36
+C013,202507,I. SPA,Hospital,Southern,Tathleeth,Tathleeth General Hospital ( Moh ),1,397.58
+C013,202507,I. SPA,Hospital,Western,Madinah,King Fahed Hospital ( Madinah) - MoH,1,993.8
+C013,202508,A. NWR,Hospital,Western,Jeddah,Halah Essa Bin Laden Hospital,1,495.18
+C013,202508,E. NW4,Hospital,Western,Jeddah,General Network Healthcare Providers Company,1,1795.13
+C013,202508,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Dallah Hospital),1,2272.12
+C013,202508,J. ONW,Hospital,Overseas,Kuwait,Al Fanar Medical Center,1,352.09
+C013,202509,H. NW7,Hospital,Overseas,Manama,University Medical Center - Bahrain (Ex Dr Suliman Al Habib - Bahrain,1,2068.63
+C013,202509,I. SPA,Hospital,Central,Bureidah,Qassim University Medical City,1,3184.52
+C013,202509,I. SPA,Hospital,Western,Madinah,King Faisal Specialist Hospital & Research Center -  Madina,1,1429.7
+C013,202509,J. ONW,Hospital,Overseas,India,Apollo Multispecialty Hospitals Ltd - Kolkata - India,1,1266.46
+C013,202510,I. SPA,Hospital,Western,Madinah,Ohud Hospital - Madinah (MoH),1,1966.12
+C013,202510,J. ONW,Hospital,Central,Riyadh,Al Hayat National Hospital  NWS,1,263.62
+C013,202510,J. ONW,Hospital,Eastern,Khobar,Mohammed Fakhry & Dr Ahmed Naser Abdulmohsin Alqarzaie Hospital,1,3127.2
+C013,202510,L. NWS,Hospital,Central,Riyadh,Dar Al Shifa Hospital,1,1009.79
+C013,202511,I. SPA,Hospital,Central,Bureidah,Maternity and Childrens Hospital - Bureidah - MOH,1,527.77
+C013,202511,I. SPA,Hospital,Central,Riyadh,King Saud Medical City - MOH,1,518.55
+C013,202511,I. SPA,Hospital,Eastern,Safwa,Safwa General Hospital - MOH,1,1106.7
+C013,202511,J. ONW,Hospital,Eastern,Al Oyoun,Madinat Al Oyoun Hospital - Al Ahsa (MOH),1,2442.35
+C014,202501,H. NW7,Hospital,Overseas,"Dubai, UAE",Dr Sulaiman Al Habib Medical Center - Dubai,1,1115.72
+C014,202501,I. SPA,Hospital,Eastern,Al Mubaraz,Prince Saud Bin Jalawi Hospital - Al Ahsa ( MOH),1,1534.36
+C014,202501,L. NWS,Hospital,Central,Riyadh,Al Azhar Hospital,1,826.75
+C014,202505,F. NW5,Hospital,Overseas,Cairo,Misr International Hospital,1,1132.89
+C014,202505,J. ONW,Hospital,Eastern,Hafr Al Batin,Northern Area Armed Forces Hospital,1,4467.22
+C014,202506,I. SPA,Hospital,Northern,Tabuk,King Salman Armed Forces Hospital - Northern Western Region,1,1596.44
+C014,202506,J. ONW,Hospital,Western,Jeddah,Al Ansar Hospital,1,1100.7
+C014,202507,D. NW3,Hospital,Central,Riyadh,Dr Abdul Rahman Al Mishari Hospital ( Riyadh ),1,1379.6
+C014,202509,H. NW7,Hospital,Western,Jeddah,West Jeddah Hospital  (Dr Suliman Al Habib Medical Center - Jeddah),1,1982.63
+C014,202510,B. NW1,Hospital,Eastern,Khobar,Mohammad Dossary Hospital,1,2620.05
+C014,202510,J. ONW,Hospital,Overseas,India,Apollo Speciality Hospitals - Jayanagar - Bangalore - India,1,2582.15
+C014,202512,D. NW3,Hospital,Overseas,India,Fortis Hospital Shalimar Bagh - New Delhi,1,1989.42
+C014,202512,I. SPA,Hospital,Northern,Tabuk,King Fahad Specialist Hospital - Tabuk (MoH),1,525.52
+C014,202512,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Sowcarpet - Chennai India,1,904.28
+C015,202501,J. ONW,Hospital,Central,Riyadh,King Khalid University Hospital,1,1927.91
+C015,202502,I. SPA,Hospital,Southern,Gizan,Bani Malik General Hospital - MoH,1,1011.87
+C015,202502,J. ONW,Hospital,Eastern,Khobar,Saad Specialist Hospital (NOT IN USE),1,1128.59
+C015,202503,D. NW3,Hospital,Overseas,India,Fortis Memorial Research Institute - Gurgaon,1,1252.43
+C015,202503,G. NW6,Hospital,Eastern,Khobar,Al Salam Hospital - Khobar,1,733.8
+C015,202503,I. SPA,Hospital,Central,Riyadh,University Medical City in King Saud University,1,59.43
+C015,202503,I. SPA,Hospital,Eastern,Al Hasa,King Faisal General Hospital - MOH,1,1155.05
+C015,202503,I. SPA,Hospital,Eastern,Ras Tanura,Ras Tanura Hospital - MoH,1,926.92
+C015,202504,H. NW7,Hospital,Eastern,Khafji,Al Khafji National Hospital,1,2479.73
+C015,202505,I. SPA,Hospital,Eastern,Hafr Al Batin,AL SAIRAH GENERAL HOSPITAL - MOH,1,519.98
+C015,202506,I. SPA,Hospital,Eastern,Al Hasa,Maternity and Child Hospital - Al Ahsa (MOH),1,3377.11
+C015,202506,J. ONW,Hospital,Central,Riyadh,Al Hammadi Hospital,1,1781.85
+C015,202508,H. NW7,Hospital,Overseas,Manama,Al Hilal Multispeciality Hospital,1,1000.5
+C015,202508,I. SPA,Hospital,Southern,Gizan,Prince Mohammed Bin Nasir Hospital - MoH,1,81.53
+C015,202509,I. SPA,Hospital,Central,Wadi Al Dawaser,Wadi Al Dawaser General Hospital - MOH,1,3727.94
+C015,202509,I. SPA,Hospital,Eastern,Al Mubaraz,Al Gabr Hospital for Ophthalmology and ENT - Al Ahsa (MOH),1,829.0
+C015,202509,I. SPA,Hospital,Southern,Al Qura,Al Qura General Hospital - MoH,1,996.24
+C015,202509,I. SPA,Hospital,Western,Makkah,Ajyad Emergency Hospital - MOH,1,750.43
+C015,202510,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic Welcare Hospital,1,467.98
+C015,202510,I. SPA,Hospital,Eastern,Al Hasa,King AbdulAziz Hospital - Al Hasa - NGH,1,610.32
+C015,202510,I. SPA,Hospital,Western,Yanbu,Yanbu General Hospital  - MoH,1,620.56
+C015,202510,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Tondiarpet - Chennai - India,1,517.02
+C015,202511,H. NW7,Hospital,Central,Al Kharj,Dr Sulaiman Al Habib Hospital - Al Kharj,1,502.06
+C015,202511,I. SPA,Hospital,Southern,Al Mekhwah,Al Mekhwah General Hospital - MoH,1,776.04
+C015,202511,J. ONW,Hospital,Overseas,Manama,Bahrain Specialized Hospital Clinics,1,1890.89
+C015,202512,L. NWS,Hospital,Central,Riyadh,Dar Al Shifa Hospital,1,324.44
+C016,202501,I. SPA,Hospital,Overseas,Kuwait,Al Seef Hospital,1,1252.86
+C016,202501,J. ONW,Hospital,Western,Makkah,Ibn Sina Hospital - Makkah (MoH),1,1541.15
+C016,202502,I. SPA,Hospital,Central,Riyadh,King Khalid Eye Specialist Hosapital (MoH),1,1183.17
+C016,202502,L. NWS,Hospital,Central,Riyadh,Al Salam Hospital - Riyadh,1,1280.26
+C016,202503,A. NWR,Hospital,Central,Riyadh,Aster Sanad Hospital for Medical Care,1,1373.32
+C016,202503,B. NW1,Hospital,Eastern,Dammam,We Care Medical Hospital,1,372.32
+C016,202503,I. SPA,Hospital,Eastern,Dammam,King Fahad Specialist Hospital - Dammam -MoH,1,453.14
+C016,202503,I. SPA,Hospital,Western,Madinah,Al Salam Hospital - Madinah - MOH,1,598.59
+C016,202503,J. ONW,Hospital,Overseas,Kuwait,Al Hasawi Medical Center,1,1412.45
+C016,202504,I. SPA,Hospital,Central,Riyadh,King Faisal Hospital & Research Center - Riyadh,1,1775.17
+C016,202504,J. ONW,Hospital,Southern,Ahad Rufaidah,Al Aqsa Specialty Hospital( Ex Al Watan Gulf Hosp/Astoon Hosp / Haramain),1,2293.83
+C016,202505,A. NWR,Hospital,Western,Jeddah,Halah Essa Bin Laden Hospital,1,351.0
+C016,202505,I. SPA,Hospital,Northern,Duba,Duba General Hospital (MOH),1,3208.67
+C016,202505,I. SPA,Hospital,Overseas,Oman,Kims Health Hospital - Oman,1,490.68
+C016,202505,J. ONW,Hospital,Central,Sajer,Sajer General Hospital - Riyadh -MOH,1,1154.4
+C016,202505,J. ONW,Hospital,Overseas,"Dubai, UAE",New Medical Centre Speciality Hospital - Al Ain,1,1303.57
+C016,202505,J. ONW,Hospital,Overseas,India,Apollo Speciality Hospital - Madurai - India,1,236.81
+C016,202506,I. SPA,Hospital,Southern,Khubash,Khubash General Hospital - MoH,1,2451.42
+C016,202507,G. NW6,Hospital,Eastern,Jubail Industrial,Al Mouwasat Hospital - Al Jubail,1,2872.12
+C016,202507,I. SPA,Hospital,Central,Riyadh,King Abdullah Bin Abdulaziz University Hospital - Riyadh,1,730.52
+C016,202508,H. NW7,Hospital,Overseas,Manama,Bahrain Specialist Hospital,1,1132.2
+C016,202508,I. SPA,Hospital,Northern,Haql,Haql General Hospital - MOH,1,2102.49
+C016,202509,F. NW5,Hospital,Eastern,Khobar,Al Mana General Hospital - Al Khobar,1,291.22
+C016,202509,I. SPA,Hospital,Eastern,Urairah,Prince Sultan Hospital - Urai'rah (MoH),1,3242.22
+C016,202509,I. SPA,Hospital,Western,Ad'am,Ad'am General Hospital - MoH,1,916.59
+C016,202509,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital -  East of Kailash - New Delhi,1,1051.08
+C016,202510,F. NW5,Hospital,Eastern,Khobar,Al Mana General Hospital - Al Khobar,1,1832.97
+C016,202510,G. NW6,Hospital,Western,Jeddah,Saudi German Hospitals Group,1,750.12
+C016,202510,I. SPA,Hospital,Eastern,Dahran,Dhahran long term care Hospital ( Dhahran General Houspital ) - MOH,1,1106.38
+C016,202511,E. NW4,Hospital,Western,Madinah,Al Hayat National Hospital - Madinah,1,4750.92
+C016,202512,D. NW3,Hospital,Overseas,India,Fortis Hospital - Noida,1,1282.53
+C016,202512,I. SPA,Hospital,Central,Al Shinan,Al Shannan General Hospital - MOH,1,925.23
+C016,202512,J. ONW,Hospital,Western,Jeddah,Al Mostaqbal Hospital,1,525.02
+C016,202512,J. ONW,Hospital,Western,Jeddah,Pain Management Center - IMC,1,1009.02
+C017,202501,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Noida - India,1,1468.59
+C017,202503,G. NW6,Hospital,Eastern,Khobar,Al Salam Hospital - Khobar,1,2315.3
+C017,202503,J. ONW,Hospital,Southern,Abha,Muhammed S. Basharahil Hospital (Not in Use),1,1864.69
+C017,202504,H. NW7,Hospital,Central,Riyadh,Sehat Al Hamra Health Care Company - Dr SHMG - Al Hamra,1,720.26
+C017,202505,B. NW1,Hospital,Eastern,Khobar,Mohammad Dossary Hospital,1,3160.84
+C017,202505,H. NW7,Hospital,Overseas,Manama,Al Hilal Multispeciality Hospital,1,1598.5
+C017,202505,I. SPA,Hospital,Southern,Al Majardah,Al Majaradah General Hospital ( MOH),1,834.2
+C017,202505,J. ONW,Hospital,Northern,Qrayat,Al Isawiyah General Hospital - MoH,1,1208.74
+C017,202506,H. NW7,Hospital,Overseas,Cairo,Dar Al Fouad Hospital - Nassr City,1,4147.23
+C017,202506,J. ONW,Hospital,Central,Riyadh,Al Rafaya Hospital - Jamash - MOH,1,323.42
+C017,202506,J. ONW,Hospital,Overseas,Beirut,Hammoud Hospital - HHUMC,1,2624.65
+C017,202507,I. SPA,Hospital,Central,Al Zulfi,Al Zulfi General Hospital - MoH,1,1092.19
+C017,202508,I. SPA,Hospital,Northern,Sakaka,Prince Mtab Bin Abdulazeez Hospital - MOH,1,1010.86
+C017,202508,J. ONW,Hospital,Overseas,India,Apollo DRDO Hospitals - Kanchanbagh - Hyderabad - India,1,429.52
+C017,202508,J. ONW,Hospital,Western,Jeddah,Al Mashfa International for Medical Services Company,1,1079.44
+C017,202509,J. ONW,Hospital,Overseas,India,Fortis Malar Hospital - Adyar - Channai,1,2714.33
+C017,202509,L. NWS,Hospital,Central,Bureidah,Al Fereh Hospital,1,1507.07
+C017,202510,I. SPA,Hospital,Central,Riyadh,King Abdullah Bin Abdulaziz University Hospital - Riyadh,1,1345.86
+C017,202510,L. NWS,Hospital,Eastern,Sayhat,Al Sadiq Hospital,1,838.88
+C017,202511,H. NW7,Hospital,Overseas,Kuwait,Taiba Hospital - Salem,1,545.16
+C017,202511,I. SPA,Hospital,Central,Riyadh,Al Reaia Al Madeda - MOH,1,1769.59
+C017,202511,I. SPA,Hospital,Northern,Duba,Duba General Hospital (MOH),1,667.52
+C017,202511,J. ONW,Hospital,Central,Baqaa,Baqa'a General Hospital - MOH,1,810.77
+C017,202512,F. NW5,Hospital,Central,Riyadh,Dr Mohammed Al Fagih Hospital,1,970.01
+C017,202512,F. NW5,Hospital,Southern,Khamis Mushayt,Al Hayah National Hospital - Khamis Mushyat,1,3393.81
+C017,202512,H. NW7,Hospital,Eastern,Khafji,Al Khafji National Hospital,1,2997.52
+C017,202512,I. SPA,Hospital,Western,Makkah,Ajyad Emergency Hospital - MOH,1,3901.44
+C017,202512,J. ONW,Hospital,Southern,Gizan,Makkah National Hospital - Samtah,1,272.27
+C018,202501,D. NW3,Hospital,Overseas,India,Fortis Escorts Hospital - Dehradun,1,1291.44
+C018,202501,H. NW7,Hospital,Central,Riyadh,Dallah Hospital - Nakeel,1,1641.53
+C018,202501,I. SPA,Hospital,Overseas,"Dubai, UAE",Canadian Specialist Hospital,1,1285.07
+C018,202501,I. SPA,Hospital,Overseas,Kuwait,Al Seef Hospital,1,2037.25
+C018,202501,I. SPA,Hospital,Southern,Al Baha,King Fahad Hospital - Al Baha (MoH),1,2107.81
+C018,202501,J. ONW,Hospital,Western,Jeddah,Al Mostaqbal Hospital,1,941.26
+C018,202501,J. ONW,Hospital,Western,Qiya,Qiya General Hospital - Makkah Al Mukaramah - MOH,1,1601.62
+C018,202502,I. SPA,Hospital,Eastern,Al Hasa,Al Oyun City Hospital - Al Hasa - MOH,1,334.92
+C018,202502,J. ONW,Hospital,Overseas,Cairo,Dar Al Fouad Hospital (NOT IN USE),1,2706.54
+C018,202502,J. ONW,Hospital,Southern,Hubuna,Hubuna General Hospital - MoH,1,1705.91
+C018,202503,H. NW7,Hospital,Eastern,Jubail Industrial,Royal Commission for Jubail,1,781.52
+C018,202504,C. NW2,Hospital,Western,Taif,Al Nahda Hospital,1,1983.35
+C018,202504,D. NW3,Hospital,Southern,Gizan,Al Hayah National Hospital - Jazan,1,1112.49
+C018,202504,I. SPA,Hospital,Central,Al Kharj,King Khalid Hospital (Al Kharj) - MoH,1,1522.75
+C018,202504,I. SPA,Hospital,Southern,Bisha,Maternity and Children Hospital - Bishah - MOH,1,766.22
+C018,202504,J. ONW,Hospital,Central,Riyadh,King Khalid University Hospital,1,566.68
+C018,202504,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Specialized Medical Center & Hospital),1,905.95
+C018,202504,J. ONW,Hospital,Southern,Gizan,Armed Forces Hospital - Jazan,1,644.34
+C018,202505,I. SPA,Hospital,Western,Makkah,Heraa General Hospital - Makkah - MOH,1,1425.81
+C018,202506,I. SPA,Hospital,Central,Hail,Al Suliamy General Hospital - MOH,1,995.18
+C018,202506,I. SPA,Hospital,Northern,Sakaka,Suwair General Hospital - MOH,1,1070.86
+C018,202506,I. SPA,Hospital,Western,Jeddah,King Abdulaziz University - Faculty of Medicine Experience House,1,702.76
+C018,202506,J. ONW,Hospital,Southern,Gizan,Makkah National Hospital - Samtah,1,965.54
+C018,202507,H. NW7,Hospital,Central,Riyadh,North Riyadh Hospital (Dr Suliman Al Habib Medical Center - Riyadh),1,298.94
+C018,202507,H. NW7,Hospital,Western,Jeddah,Dr Sulaiman Al Habib Hospital - Al Mohammadiyah,1,639.76
+C018,202507,I. SPA,Hospital,Southern,Gizan,Bani Malik General Hospital - MoH,1,540.41
+C018,202507,L. NWS,Hospital,Western,Jeddah,Ibn Sina College Hospital,1,354.66
+C018,202508,D. NW3,Hospital,Overseas,India,Fortis Escorts Hospital - Dehradun,1,2096.52
+C018,202508,G. NW6,Hospital,Western,Madinah,Al Mouwasat Hospital - Madinah,1,649.79
+C018,202508,H. NW7,Hospital,Overseas,Manama,University Medical Center - Bahrain (Ex Dr Suliman Al Habib - Bahrain,1,904.08
+C018,202508,I. SPA,Hospital,Northern,Arar,Jadidat Arar General Hospital ( MoH),1,1425.72
+C018,202509,G. NW6,Hospital,Western,Madinah,Al Mouwasat Hospital - Madinah,1,661.19
+C018,202510,I. SPA,Hospital,Western,Madinah,Maternity and Child Hospital - Madinah - MoH,1,2651.36
+C018,202511,I. SPA,Hospital,Central,Riyadh,King Khalid Eye Specialist Hosapital (MoH),1,1166.43
+C018,202512,J. ONW,Hospital,Overseas,Beirut,Hammoud Hospital - HHUMC,1,1749.49
+C019,202501,C. NW2,Hospital,Eastern,Khobar,GAMA Hospital,1,4038.52
+C019,202501,J. ONW,Hospital,Western,Al Muwayh,Al Muwayh General Hospital -  MOH,1,270.14
+C019,202502,I. SPA,Hospital,Central,Hail,Al Suliamy General Hospital - MOH,1,1555.02
+C019,202502,J. ONW,Hospital,Western,Makkah,Makkah Medical Center (not in use),1,1638.49
+C019,202503,G. NW6,Hospital,Overseas,Manama,Al Hilal Premier Hospital Saqia Company,1,2080.45
+C019,202503,I. SPA,Hospital,Central,Al Aflaj,Aflaj General Hospital - MoH,1,2766.74
+C019,202503,I. SPA,Hospital,Northern,Domat Al Jandal,Domat Al Jandal Hospital - Al Jouf (MoH),1,1141.77
+C019,202503,J. ONW,Hospital,Eastern,Jubail,Armed Forces Hospital in Jubail - MoD,1,559.22
+C019,202504,J. ONW,Hospital,Western,Madinah,Al Rahma Hospital - Madina,1,702.03
+C019,202504,J. ONW,Hospital,Western,Turbah,Tuorbah General Hospital - MOH,1,512.15
+C019,202504,L. NWS,Hospital,Central,Riyadh,Dar Al Shifa Hospital,1,2086.99
+C019,202505,A. NWR,Hospital,Overseas,Cairo,Quadrat for Specialized Medical Services,1,1348.38
+C019,202505,I. SPA,Hospital,Central,Al Aflaj,Aflaj General Hospital - MoH,1,1531.43
+C019,202505,I. SPA,Hospital,Southern,Najran,Thar General Hospital - MOH,1,545.65
+C019,202506,J. ONW,Hospital,Southern,Baljurashi,Ghodran General Hospital,1,2121.14
+C019,202506,L. NWS,Hospital,Eastern,Sayhat,Al Sadiq Hospital,1,4246.99
+C019,202507,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic - Parkview,1,2684.16
+C019,202507,I. SPA,Hospital,Eastern,Dammam,Rafiya General Hospital- MOH,1,1429.45
+C019,202508,J. ONW,Hospital,Western,Jeddah,Dr Khalid Idriss Hospital,1,2772.91
+C019,202509,D. NW3,Hospital,Overseas,India,Fortis Hiranandani Hospital Vashi - Mumbai,1,2195.41
+C019,202509,I. SPA,Hospital,Eastern,Al Nuairiyah,Al Nuairiyah General Hospital - MoH,1,605.19
+C019,202510,D. NW3,Hospital,Overseas,India,Fortis La Femme Greater Kailash II - New Delhi,1,1291.71
+C019,202510,D. NW3,Hospital,Overseas,India,Fortis S.L. Raheja Hospital - Mahim - Mumbai,1,1085.4
+C019,202511,D. NW3,Hospital,Overseas,India,Fortis Hospital - Seshadripuram - Bangalore,1,733.38
+C019,202511,I. SPA,Hospital,Eastern,Khafji,Al Khafji General Hospital - MoH,1,425.49
+C019,202511,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Riyadh Care Hospital),1,1461.06
+C019,202511,J. ONW,Hospital,Overseas,Beirut,Hammoud Hospital - HHUMC,1,483.11
+C019,202512,I. SPA,Hospital,Southern,Al Mekhwah,Al Mekhwah General Hospital - MoH,1,411.55
+C020,202501,J. ONW,Hospital,Southern,Hubuna,Hubuna General Hospital - MoH,1,2226.14
+C020,202502,H. NW7,Hospital,Overseas,"Dubai, UAE",Mediclinic - Parkview,1,756.31
+C020,202502,J. ONW,Hospital,Overseas,Abu Dhabi,National Hospital - Abu Dhabi,1,686.74
+C020,202503,D. NW3,Hospital,Overseas,India,Fortis Hospital - Mohali,1,575.88
+C020,202503,D. NW3,Hospital,Overseas,India,Fortis Hospital - Mulund - Mumbai,1,1994.2
+C020,202503,F. NW5,Hospital,Eastern,Al Hasa,Al Mana General Hospital - Hofuf,1,35.17
+C020,202503,J. ONW,Hospital,Central,Al Dalm,Prince Salman Bin Mohammed Hospital - MoH,1,716.28
+C020,202503,J. ONW,Hospital,Western,Makkah,Al Rafie Hospital,1,466.54
+C020,202504,B. NW1,Hospital,Western,Jeddah,Al Hamra Hospital,1,3122.03
+C020,202504,H. NW7,Hospital,Overseas,Manama,Al Hilal Multispeciality Hospital,1,1276.46
+C020,202504,J. ONW,Hospital,Overseas,Spain,La Moraleja Hospital - Madrid (Spain),1,797.44
+C020,202505,I. SPA,Hospital,Central,Tumair,Tumair General Hospital - MoH,1,585.01
+C020,202505,J. ONW,Hospital,Northern,Al Jouf,Miqua General Hospital - MoH,1,1029.13
+C020,202506,I. SPA,Hospital,Eastern,Urairah,Prince Sultan Hospital - Urai'rah (MoH),1,697.84
+C020,202506,J. ONW,Hospital,Overseas,"Dubai, UAE",New Medical Centre Specialty Hospital - Dubai,1,1483.37
+C020,202508,I. SPA,Hospital,Central,Tumair,Tumair General Hospital - MoH,1,1449.98
+C020,202508,J. ONW,Hospital,Overseas,Pakistan,Maroof International Hospital - Pakistan,1,2842.18
+C020,202508,J. ONW,Hospital,Western,Jeddah,Al Rowaily Hospital (ex Naseem Jeddah Hospital),1,2522.03
+C020,202509,D. NW3,Hospital,Overseas,India,Fortis Flt. Lt. Rajan Dhall Hospital-Vasant Kunj-New Delhi,1,808.27
+C020,202510,C. NW2,Hospital,Southern,Sabya,Al Emeis National Hospital,1,1408.36
+C020,202510,J. ONW,Hospital,Northern,Qrayat,Al Isawiyah General Hospital - MoH,1,458.36
+C020,202512,D. NW3,Hospital,Eastern,Hafr Al Batin,Al Maali Hospital,1,502.76
+C020,202512,H. NW7,Hospital,Overseas,Cairo,Dar Al Fouad Hospital - Nassr City,1,523.69
+C021,202501,I. SPA,Hospital,Eastern,Urairah,Prince Sultan Hospital - Urai'rah (MoH),1,1165.61
+C021,202502,G. NW6,Hospital,Western,Makkah,Makkah Medical Center,1,3290.99
+C021,202502,I. SPA,Hospital,Eastern,Hafr Al Batin,Mental Health Hospital - MOH,1,1544.78
+C021,202502,I. SPA,Hospital,Northern,Tabuk,King Fahad Specialist Hospital - Tabuk (MoH),1,542.65
+C021,202503,J. ONW,Hospital,Overseas,Beirut,Hammoud Hospital - HHUMC,1,2197.92
+C021,202505,F. NW5,Hospital,Central,Riyadh,Saudi German Hospital - Riyadh,1,549.0
+C021,202505,F. NW5,Hospital,Eastern,Jubail,Al Mana Medical Center - Jubail,1,971.01
+C021,202505,I. SPA,Hospital,Eastern,Al Hasa,Salwa General Hospital - Al Ahsa - MOH,1,3139.53
+C021,202505,I. SPA,Hospital,Northern,Sakaka,Maternity and Children Hospital - Jouf (MoH),1,968.26
+C021,202505,J. ONW,Hospital,Eastern,Jubail,"Armed Forces Hospital, King Abdul Aziz Naval Base - Jubail",1,1126.6
+C021,202505,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Indraprastha - New Delhi,1,2306.57
+C021,202505,J. ONW,Hospital,Western,Jeddah,Jeddah National Hospital,1,240.43
+C021,202506,G. NW6,Hospital,Overseas,"Dubai, UAE",Saudi German Hospital (SGH - Dubai),1,699.6
+C021,202506,H. NW7,Hospital,Central,Hail,Hail National Company For Health Care (SGH - Hail),1,2950.79
+C021,202507,I. SPA,Hospital,Central,Hail,Hail General Hospital - MOH,1,703.8
+C021,202507,I. SPA,Hospital,Northern,Sakaka,Maternity and Children Hospital - Jouf (MoH),1,1120.68
+C021,202507,I. SPA,Hospital,Western,Makkah,King Faisal Hospital (MOH),1,1157.7
+C021,202508,I. SPA,Hospital,Southern,Khubash,Khubash General Hospital - MoH,1,530.92
+C021,202508,J. ONW,Hospital,Overseas,Manama,Bahrain Specialized Hospital Clinics,1,479.08
+C021,202509,I. SPA,Hospital,Overseas,Qatar,The View Hospital,1,1384.03
+C021,202509,J. ONW,Hospital,Southern,Ahad Rufaidah,Al Aqsa Hospital - Ahd Rofidah,1,1301.03
+C021,202510,A. NWR,Hospital,Overseas,Pakistan,Aga Khan Hospital For Woman - Karimabad,1,375.61
+C021,202510,B. NW1,Hospital,Western,Makkah,Dr Awwad Al Bishri Hospital,1,1056.57
+C021,202510,I. SPA,Hospital,Southern,Al Majardah,Al Majaradah General Hospital ( MOH),1,2152.52
+C021,202510,J. ONW,Hospital,Northern,Qrayat,King Faisal Hospital in Qurayat - MoH,1,2159.56
+C021,202511,D. NW3,Hospital,Overseas,India,Fortis Escorts Hospital - Faridabad,1,1068.65
+C021,202511,H. NW7,Hospital,Overseas,Beirut,American University of Beirut - Medical Center,1,1397.22
+C021,202511,I. SPA,Hospital,Southern,Al Mekhwah,Al Mekhwah General Hospital - MoH,1,2956.17
+C021,202512,I. SPA,Hospital,Northern,Rafha'a,Rafhaa General Hospital - MoH,1,1300.43
+C021,202512,J. ONW,Hospital,Northern,Tabuk,Al Badaa General Hospital - MOH,1,170.64
+C022,202501,J. ONW,Hospital,Central,Al Dalm,Prince Salman Bin Mohammed Hospital - MoH,1,740.87
+C022,202501,J. ONW,Hospital,Western,Makkah,Ibn Sina Hospital - Makkah (MoH),1,1890.51
+C022,202501,L. NWS,Hospital,Western,Madinah,Dr Hamid S Al Ahmadi Hospital,1,1857.56
+C022,202502,I. SPA,Hospital,Southern,Abha,Abha Maternity and Children Hospital ( MOH ),1,1767.14
+C022,202503,I. SPA,Hospital,Central,Afif,Afif General Hospital - MOH,1,382.17
+C022,202504,I. SPA,Hospital,Eastern,Dammam,Imam Abdurahman Al Faisal - Dammam - NGH,1,1816.17
+C022,202504,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Sowcarpet - Chennai India,1,1087.18
+C022,202506,B. NW1,Hospital,Southern,Muhayel,Al Modawat Specialized Medical Hospital,1,5476.94
+C022,202506,F. NW5,Hospital,Overseas,Cairo,Saudi German Hospital - Cairo,1,1493.77
+C022,202507,I. SPA,Hospital,Northern,Turaif,Turaif Hospital - Northern Borders (MoH),1,3711.88
+C022,202507,I. SPA,Hospital,Southern,Muhayel,Muhayel General Hospital ( MOH),1,1835.31
+C022,202507,J. ONW,Hospital,Central,Hotat Sudair,Hotat Sudair Hospital - MoH,1,313.95
+C022,202507,J. ONW,Hospital,Eastern,Al Hasa,Al Gafer General Hospital - Al Ahsa ( MOH),1,1575.83
+C022,202508,I. SPA,Hospital,Western,Jeddah,King Faisal Specialist Hospital & Research Center - Jeddah,1,709.37
+C022,202509,B. NW1,Hospital,Eastern,Khobar,Mohammad Dossary Hospital,1,902.21
+C022,202509,D. NW3,Hospital,Central,Riyadh,Magrabi Hospital - Riyadh,1,2350.75
+C022,202509,F. NW5,Hospital,Northern,Tabuk,Prince Fahad Bin Sultan Hospital,1,855.61
+C022,202509,L. NWS,Hospital,Central,Riyadh,Al Osrah International Hospital,1,2191.54
+C022,202510,I. SPA,Hospital,Western,Jeddah,Ophthalmology Hospital - Jeddah ( MOH),1,1044.4
+C022,202510,I. SPA,Hospital,Western,Makkah,Ajyad Emergency Hospital - MOH,1,2527.78
+C022,202511,I. SPA,Hospital,Central,Riyadh,Imam Abdurahman Al Faisal Hospital - Riyadh (MoH),1,73.46
+C022,202511,J. ONW,Hospital,Central,Riyadh,Victoria Medical Hospital,1,3133.56
+C022,202511,J. ONW,Hospital,Overseas,Kuwait,Al Safat American Medical Center,1,218.3
+C022,202512,L. NWS,Hospital,Central,Riyadh,Al Salam Hospital - Riyadh,1,1067.68
+C023,202501,D. NW3,Hospital,Central,Riyadh,Family Care Hospital,1,1020.75
+C023,202501,I. SPA,Hospital,Eastern,Hafr Al Batin,Hafr Al Batin Central Hospital - MoH,1,1076.14
+C023,202501,I. SPA,Hospital,Overseas,Manama,Bahrain Defence Force (King Hamad University Hospital),1,861.0
+C023,202501,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Al Hammadi Hospital),1,2826.86
+C023,202502,G. NW6,Hospital,Eastern,Al Hasa,Al Moosa Rehabilitation Hospital,1,803.51
+C023,202502,I. SPA,Hospital,Northern,Sakaka,Suwair General Hospital - MOH,1,804.83
+C023,202503,I. SPA,Hospital,Southern,Khubash,Khubash General Hospital - MoH,1,396.36
+C023,202503,J. ONW,Hospital,Overseas,"Dubai, UAE",International SOS (Gulf) W.L.L.,1,1587.88
+C023,202504,G. NW6,Hospital,Eastern,Dammam,Saudi German Hospital - Dammam,1,1002.62
+C023,202506,I. SPA,Hospital,Eastern,Qatif,Qatif Central Hospital - MoH,1,3281.16
+C023,202506,J. ONW,Hospital,Western,Jeddah,Rouyat Jeddah Lab - King Abdulaziz University,1,1666.14
+C023,202507,F. NW5,Hospital,Northern,Tabuk,Prince Fahad Bin Sultan Hospital,1,1796.5
+C023,202507,I. SPA,Hospital,Eastern,Dammam,Dammam Medical Complex (MOH),1,2209.64
+C023,202507,J. ONW,Hospital,Western,Jeddah,Test Provider,1,971.55
+C023,202508,I. SPA,Hospital,Northern,Haql,Haql General Hospital - MOH,1,2686.55
+C023,202508,I. SPA,Hospital,Southern,Ghonfodah,Ghonfodah General Hospital - MoH,1,1052.62
+C023,202510,I. SPA,Hospital,Eastern,Anak,Anak General Hospital - MOH,1,2550.4
+C023,202510,J. ONW,Hospital,Southern,Bisha,Al Bashaer General Hospital - MOH,1,688.12
+C023,202511,D. NW3,Hospital,Overseas,India,Fortis Flt. Lt. Rajan Dhall Hospital-Vasant Kunj-New Delhi,1,1152.95
+C023,202511,F. NW5,Hospital,Eastern,Dammam,Al Mana General Hospital - Dammam,1,1794.34
+C024,202501,I. SPA,Hospital,Central,Arrowaida,Rweideh Ala'ardh Hospital - MoH,1,999.64
+C024,202501,I. SPA,Hospital,Eastern,Hafr Al Batin,AL SAIRAH GENERAL HOSPITAL - MOH,1,280.27
+C024,202501,J. ONW,Hospital,Eastern,Khobar,Saad Specialist Hospital,1,865.77
+C024,202502,D. NW3,Hospital,Overseas,India,Fortis Hospital - Rajajinagar - Bangalore,1,4867.02
+C024,202502,G. NW6,Hospital,Central,Riyadh,Prince Sultan Humanitarian City,1,761.08
+C024,202502,I. SPA,Hospital,Southern,Al Namas,Al Namas General Hospital -Aseer (MOH),1,574.54
+C024,202502,L. NWS,Hospital,Central,Riyadh,Al Abeer Medical Hospital Company Limited,1,367.38
+C024,202503,I. SPA,Hospital,Eastern,Al Hasa,King AbdulAziz Hospital - Al Hasa - NGH,1,1701.4
+C024,202503,I. SPA,Hospital,Southern,Ghonfodah,Ghonfodah General Hospital - MoH,1,1734.24
+C024,202503,J. ONW,Hospital,Central,Riyadh,Al Hayat National Hospital  NWS,1,1194.14
+C024,202503,J. ONW,Hospital,Overseas,Kuwait,Al Fanar Medical Center,1,558.14
+C024,202505,J. ONW,Hospital,Western,Jeddah,Al Hayat Hospital,1,1361.47
+C024,202506,A. NWR,Hospital,Southern,Khamis Mushayt,Mustasharak Hospital,1,1784.72
+C024,202506,I. SPA,Hospital,Southern,Sharoorah,Sharoorah General Hospital - MoH,1,855.94
+C024,202506,J. ONW,Hospital,Western,Jeddah,Dr Khalid Idriss Hospital,1,280.82
+C024,202507,H. NW7,Hospital,Overseas,Manama,International Hospital of Bahrain,1,1101.26
+C024,202507,I. SPA,Hospital,Central,Al Rass,Al Russ General Hospital - MOH,1,637.31
+C024,202507,I. SPA,Hospital,Eastern,Hafr Al Batin,Qaisomah General Hospital - MOH,1,177.54
+C024,202507,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Ayanambakkam - Chennai - India,1,1083.49
+C024,202507,J. ONW,Hospital,Western,Jeddah,Test Provider,1,2475.32
+C024,202508,I. SPA,Hospital,Western,Madinah,Khayber General Hospital - MoH,1,1622.05
+C024,202509,C. NW2,Hospital,Southern,Abha,Ryadh Hospital,1,2998.15
+C024,202509,I. SPA,Hospital,Western,Jeddah,Al Thaghr General Hospital ( MOH),1,794.77
+C024,202509,J. ONW,Hospital,Western,Alaradiyat,Namrah General Hospital - MOH,1,2622.23
+C024,202509,J. ONW,Hospital,Western,Jeddah,Dr Abdul Rahman Taha Bakhsh Hospital (East Highway),1,772.16
+C024,202510,I. SPA,Hospital,Overseas,Amman,The Speciality Hospital - Amman,1,2315.84
+C024,202512,A. NWR,Hospital,Central,Riyadh,Elite Hospital,1,587.31
+C024,202512,H. NW7,Hospital,Overseas,Manama,Al Noor Specialist Hospital - Bahrain,1,1539.82
+C024,202512,I. SPA,Hospital,Eastern,Safwa,Safwa General Hospital - MOH,1,2736.82
+C024,202512,I. SPA,Hospital,Western,Jeddah,King Abdulaziz Medical City (Ex King Khalid Hospital ) - NGH,1,2688.89
+C024,202512,I. SPA,Hospital,Western,Makkah,King Abdulaziz Hospital - Makkah (MoH),1,1331.66
+C024,202512,I. SPA,Hospital,Western,Taif,King Abdul Aziz Specialist Hospital ( MOH ),1,3194.68
+C024,202512,J. ONW,Hospital,Western,Jeddah,Bugshan General Hospital,1,94.49
+C024,202512,L. NWS,Hospital,Central,Riyadh,Rabiah Hospital,1,1047.5
+C025,202501,D. NW3,Hospital,Overseas,India,Fortis C-DOC Chirag Enclave - New Delhi,1,1671.87
+C025,202501,F. NW5,Hospital,Overseas,"Dubai, UAE",Zulekha Hospital - Dubai,1,2200.18
+C025,202501,I. SPA,Hospital,Northern,Duba,Duba General Hospital (MOH),1,803.09
+C025,202501,I. SPA,Hospital,Southern,Gizan,Prince Mohammed Bin Nasir Hospital - MoH,1,1694.92
+C025,202502,I. SPA,Hospital,Southern,Khamis Mushayt,Khamis Mushyat  Maternity and Child Hospital ( MOH),1,1061.66
+C025,202503,I. SPA,Hospital,Central,Al Badaya'a,Al Badaya General Hospital - MoH,1,1465.11
+C025,202503,I. SPA,Hospital,Southern,Bisha,King Abdullah Hospital - Bisha (MoH),1,394.14
+C025,202503,J. ONW,Hospital,Overseas,Cairo,Dar Al Fouad Hospital (NOT IN USE),1,1592.42
+C025,202503,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  - Rajouri Garden - New Delhi,1,568.14
+C025,202504,H. NW7,Hospital,Western,Jeddah,Saudi German Hospital - Al Rawabi,1,575.31
+C025,202504,I. SPA,Hospital,Central,Al Dawadmi,Al Duwadimi General Hospital - MoH,1,1028.54
+C025,202505,F. NW5,Hospital,Central,Riyadh,Al Hayat National Hospital - Riyadh,1,745.02
+C025,202505,G. NW6,Hospital,Western,Jeddah,Al Salama Hospital - Jeddah,1,972.39
+C025,202505,I. SPA,Hospital,Southern,Gizan,Faifa General Hospital - MOH,1,1121.94
+C025,202505,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  - Chennai,1,2843.77
+C025,202506,I. SPA,Hospital,Central,Al Kharj,King Khalid Hospital (Al Kharj) - MoH,1,2042.1
+C025,202506,I. SPA,Hospital,Eastern,Dammam,Dammam Medical Complex (MOH),1,525.89
+C025,202507,D. NW3,Hospital,Overseas,India,Fortis Hospital - Bannerghatta Road - Bangalore,1,1218.54
+C025,202507,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Noida - India,1,876.38
+C025,202508,G. NW6,Hospital,Eastern,Khobar,Al Salam Hospital - Khobar,1,1527.57
+C025,202508,J. ONW,Hospital,Eastern,Al Hasa,Al Jafr General Hospital - Al Ahsa - MOH,1,170.05
+C025,202508,J. ONW,Hospital,Eastern,Khobar,Saad Specialist Hospital,1,432.91
+C025,202508,J. ONW,Hospital,Southern,Baljurashi,Al Sarah Hospital,1,3013.4
+C025,202508,J. ONW,Hospital,Western,Jeddah,Dr Abdullah Saim Al Dahr Hospital,1,1750.41
+C025,202509,F. NW5,Hospital,Overseas,"Dubai, UAE",Zulekha Hospital - Dubai,1,1237.99
+C025,202509,I. SPA,Hospital,Central,Riyadh,King Khalid Eye Specialist Hosapital (MoH),1,1966.59
+C025,202509,I. SPA,Hospital,Eastern,Hafr Al Batin,Qaisomah General Hospital - MOH,1,4902.34
+C025,202510,B. NW1,Hospital,Western,Jeddah,Al Hamra Hospital,1,747.94
+C025,202510,B. NW1,Hospital,Western,Yanbu Industrial,Yanbu National Hospital,1,1140.93
+C025,202510,I. SPA,Hospital,Western,Makkah,King Faisal Hospital (MOH),1,1366.72
+C025,202511,J. ONW,Hospital,Central,Sajer,Sajer General Hospital - (MOH),1,1208.41
+C026,202501,D. NW3,Hospital,Overseas,India,Fortis Flt. Lt. Rajan Dhall Hospital-Vasant Kunj-New Delhi,1,1040.37
+C026,202502,I. SPA,Hospital,Western,Dhalm,Dalam General Hospital ( MOH ),1,382.01
+C026,202504,D. NW3,Hospital,Overseas,India,Fortis La Femme Greater Kailash II - New Delhi,1,1419.04
+C026,202504,H. NW7,Hospital,Overseas,Beirut,American University of Beirut - Medical Center,1,2837.45
+C026,202504,I. SPA,Hospital,Eastern,Al Hasa,Mental Health Hospital - Al Ahsa - MoH,1,951.85
+C026,202505,J. ONW,Hospital,Overseas,Kuwait,Al Jraiwi Medical Center,1,535.29
+C026,202506,I. SPA,Hospital,Overseas,Qatar,The View Hospital,1,633.07
+C026,202506,J. ONW,Hospital,Western,Al Khorma,Al Kharma General Hospital - MOH,1,1394.72
+C026,202507,I. SPA,Hospital,Western,Makkah,Heraa General Hospital - Makkah - MOH,1,1778.84
+C026,202507,J. ONW,Hospital,Western,Jeddah,Al Salam International Hospital (Jeddah),1,1269.67
+C026,202509,F. NW5,Hospital,Overseas,"Dubai, UAE",Zulekha Hospital - Dubai,1,1694.84
+C026,202509,G. NW6,Hospital,Overseas,Manama,German Specialised Hospital,1,922.75
+C026,202510,A. NWR,Hospital,Central,Unayzah,Hayat National Hospital - Qassim,1,1331.57
+C026,202510,F. NW5,Hospital,Central,Riyadh,Riyadh Hospital,1,1803.9
+C026,202510,I. SPA,Hospital,Eastern,Al Nuairiyah,Al Nuairiyah General Hospital - MoH,1,770.94
+C026,202510,I. SPA,Hospital,Western,Jeddah,Ophthalmology Hospital - Jeddah ( MOH),1,24.64
+C026,202512,J. ONW,Hospital,Central,Sajer,Sajer General Hospital - (MOH),1,1981.28
+C026,202512,J. ONW,Hospital,Overseas,India,Apollo Emergency Hospitals - Kukatpally - Hyderabad - India,1,2144.68
+C027,202501,B. NW1,Hospital,Eastern,Khobar,Mohammad Dossary Hospital,1,1585.61
+C027,202501,I. SPA,Hospital,Central,Hail,King Khalid Hospital - Hail - MOH,1,1835.5
+C027,202502,I. SPA,Hospital,Central,Riyadh,King Saud Medical City - MOH,1,2918.53
+C027,202502,J. ONW,Hospital,Northern,Ramah,Remah General Hospital - MoH,1,1393.23
+C027,202502,J. ONW,Hospital,Overseas,Manama,(Not to Use) International Hospital of Bahrain,1,283.83
+C027,202502,L. NWS,Hospital,Western,Jeddah,Al Zahra Hospital - Jeddah,1,224.41
+C027,202503,F. NW5,Hospital,Central,Riyadh,Kingdom Hospital,1,111.37
+C027,202503,I. SPA,Hospital,Central,Bureidah,King Fahad Hospital - Qassim - MOH,1,924.44
+C027,202503,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Kolkata,1,216.84
+C027,202503,J. ONW,Hospital,Overseas,Spain,CIMA Hospital - Barcelona (Spain),1,1385.15
+C027,202505,J. ONW,Hospital,Overseas,India,Apollo Emergency Hospitals - Kukatpally - Hyderabad - India,1,730.03
+C027,202505,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Kolkata,1,671.24
+C027,202506,H. NW7,Hospital,Eastern,Dahran,CMRC Saudi Arabia Hospital,1,131.57
+C027,202506,H. NW7,Hospital,Western,Jeddah,Andalusia Hospital,1,1062.96
+C027,202507,H. NW7,Hospital,Overseas,Manama,International Hospital of Bahrain,1,954.29
+C027,202507,I. SPA,Hospital,Central,Al Majmaa,King Khalid Hospital (Al Majma'a) - MOH,1,737.7
+C027,202507,I. SPA,Hospital,Central,Riyadh,King Fahad Medical City - MOH,1,2831.66
+C027,202507,J. ONW,Hospital,Central,Riyadh,Outside Doctor (Al Hammadi Hospital),1,787.99
+C027,202510,H. NW7,Hospital,Western,Makkah,Saudi German Hospital - Makkah,1,1665.68
+C027,202510,I. SPA,Hospital,Northern,Arar,Arar Central Hospital - MoH,1,340.39
+C027,202511,I. SPA,Hospital,Central,Riyadh,Prince Mohammed Bin Abdulaziz Hospital (Riyadh) - MOH,1,5441.09
+C027,202511,J. ONW,Hospital,Overseas,Manama,Al Kindi Specialised Hospital,1,1607.91
+C027,202512,G. NW6,Hospital,Eastern,Dammam,Al Mouwasat Hospital - Dammam,1,910.79
+C027,202512,I. SPA,Hospital,Southern,Gizan,Faifa General Hospital - MOH,1,955.08
+C027,202512,J. ONW,Hospital,Overseas,Spain,La Zarzuela Hospital - Madrid (Spain),1,361.32
+C028,202501,G. NW6,Hospital,Overseas,Manama,German Specialised Hospital,1,2268.5
+C028,202501,J. ONW,Hospital,Western,Jeddah,General Network Healthcare Provider (GNP 2),1,287.87
+C028,202502,H. NW7,Hospital,Overseas,Beirut,American University of Beirut - Medical Center,1,833.52
+C028,202502,J. ONW,Hospital,Northern,Qrayat,Al Hadithah General Hospital - MoH,1,435.98
+C028,202503,I. SPA,Hospital,Eastern,Qatif,Prince Mohammed Bin Fahad General and Hematology Hospital - MOH,1,1349.16
+C028,202504,F. NW5,Hospital,Eastern,Jubail,Al Mana Medical Center - Jubail,1,2282.48
+C028,202504,I. SPA,Hospital,Eastern,Abqiq,Bgaig General Hospital - MoH,1,1078.45
+C028,202504,I. SPA,Hospital,Southern,Dhamad,Dhamad General Hospital - Gazan - MOH,1,2739.04
+C028,202504,J. ONW,Hospital,Eastern,Al Hasa,Al Jafr General Hospital - Al Ahsa - MOH,1,953.27
+C028,202504,L. NWS,Hospital,Central,Riyadh,Al Falah International Hospital,1,2529.02
+C028,202505,B. NW1,Hospital,Eastern,Khobar,Mohammad Dossary Hospital,1,3563.41
+C028,202505,I. SPA,Hospital,Southern,Dhahran Al Janoub,Dahran Al Jonub General Hospital -Aseer (MOH),1,64.91
+C028,202505,I. SPA,Hospital,Western,Makkah,Al Noor Specialist Hospital ( MOH ),1,2742.62
+C028,202505,J. ONW,Hospital,Central,Riyadh,Prince Sultan Military Medical Cardiac Center,1,3036.79
+C028,202505,J. ONW,Hospital,Eastern,Jubail,Fast Track - Al Mana General Hospital - Al Jubail,1,2466.53
+C028,202505,J. ONW,Hospital,Eastern,Khobar,Saad Specialist Hospital (NOT IN USE),1,614.95
+C028,202505,J. ONW,Hospital,Northern,Ramah,Remah General Hospital - MoH,1,645.95
+C028,202505,J. ONW,Hospital,Overseas,Abu Dhabi,National Hospital - Abu Dhabi,1,579.64
+C028,202506,G. NW6,Hospital,Central,Riyadh,Prince Sultan Humanitarian City,1,1986.24
+C028,202506,I. SPA,Hospital,Northern,Tabarjal,Tabarjal General Hospital ( MOH ),1,1426.59
+C028,202506,I. SPA,Hospital,Western,Ad'am,Ad'am General Hospital - MoH,1,545.95
+C028,202506,I. SPA,Hospital,Western,Jeddah,King Fahad Hospital - Jeddah (MOH),1,1149.02
+C028,202506,I. SPA,Hospital,Western,Taif,King Abdul Aziz Specialist Hospital ( MOH ),1,2511.93
+C028,202506,J. ONW,Hospital,Central,Riyadh,King Salman Center for Renal Diseases (MOH),1,583.76
+C028,202507,H. NW7,Hospital,Overseas,Manama,International Hospital of Bahrain,1,1730.07
+C028,202507,I. SPA,Hospital,Central,Riyadh,Al Yamamah  Hospital - MOH,1,3135.97
+C028,202507,I. SPA,Hospital,Central,Riyadh,Prince Mohammed Bin Abdulaziz Hospital (Riyadh) - MOH,1,599.98
+C028,202507,J. ONW,Hospital,Central,Riyadh,Al Hammadi Hospital,1,1541.79
+C028,202507,L. NWS,Hospital,Central,Hail,Al Anwar Medical Company,1,208.75
+C028,202508,A. NWR,Hospital,Overseas,Pakistan,Aga Khan Maternity and Child Care Center - Hyderabad,1,1554.98
+C028,202508,J. ONW,Hospital,Northern,Al Jouf,Miqua General Hospital - MoH,1,2278.76
+C028,202509,I. SPA,Hospital,Central,Al Muzahmiya,Al Muzahmiyah General Hospital - Riyadh -MOH,1,944.46
+C028,202509,I. SPA,Hospital,Eastern,Al Hasa,Al Oyun City Hospital - Al Hasa - MOH,1,1535.46
+C028,202509,J. ONW,Hospital,Central,Wadi Al Dawaser,Armed Forces Hospital in Wadi AlDowaser,1,1042.8
+C028,202510,I. SPA,Hospital,Northern,Arar,Jadidat Arar General Hospital ( MoH),1,1051.86
+C028,202511,G. NW6,Hospital,Eastern,Dammam,Saudi German Hospital - Dammam,1,309.26
+C028,202511,I. SPA,Hospital,Central,Hail,Al Suliamy General Hospital - MOH,1,1843.13
+C028,202511,I. SPA,Hospital,Northern,Arar,Maternity and Children Hospital - Arar (MoH),1,997.78
+C028,202511,J. ONW,Hospital,Western,Jeddah,King Fahad Armed Forces Hospital,1,974.82
+C028,202512,I. SPA,Hospital,Western,Yanbu Industrial,Royal Commission Medical Center - Yanbu,1,1046.39
+C028,202512,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Andheri - Mumbai,1,2182.65
+C029,202501,B. NW1,Hospital,Western,Yanbu Industrial,Yanbu National Hospital,1,654.28
+C029,202501,F. NW5,Hospital,Northern,Sakaka,Dr Faris Al Haddaj Hospital,1,1211.33
+C029,202502,A. NWR,Hospital,Western,Jeddah,Halah Essa Bin Laden Hospital,1,1256.22
+C029,202502,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  - Rajouri Garden - New Delhi,1,1956.96
+C029,202505,I. SPA,Hospital,Central,Al Badaya'a,Al Badaya General Hospital - MoH,1,1424.56
+C029,202505,I. SPA,Hospital,Central,Al Zulfi,Al Zulfi General Hospital - MoH,1,928.61
+C029,202505,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Gagan Vihar Main - New Delhi,1,1303.08
+C029,202506,I. SPA,Hospital,Southern,Najran,Thar General Hospital - MOH,1,1249.05
+C029,202508,G. NW6,Hospital,Western,Jeddah,Saudi German Hospitals Group,1,970.28
+C029,202509,F. NW5,Hospital,Eastern,Jubail,Al Mana Medical Center - Jubail,1,1209.6
+C029,202509,H. NW7,Hospital,Western,Jeddah,Dr Sulaiman Al Habib Hospital - Al Mohammadiyah,1,2263.93
+C029,202509,I. SPA,Hospital,Central,Unayzah,King Saud Hospital - Onaizah - MOH,1,845.01
+C029,202511,G. NW6,Hospital,Central,Riyadh,Prince Sultan Humanitarian City,1,1487.13
+C029,202512,J. ONW,Hospital,Overseas,Abu Dhabi,National Hospital - Abu Dhabi,1,1364.25
+C029,202512,J. ONW,Hospital,Southern,Gizan,Armed Forces Hospital - Jazan,1,355.63
+C030,202501,D. NW3,Hospital,Overseas,India,Fortis Hospital - Nagarbhavi - Bangalore,1,175.26
+C030,202501,H. NW7,Hospital,Overseas,"Dubai, UAE",Dr Sulaiman Al Habib Medical Center - Dubai,1,2208.54
+C030,202501,I. SPA,Hospital,Central,Riyadh,King Faisal Hospital & Research Center - Riyadh,1,1195.96
+C030,202501,I. SPA,Hospital,Eastern,Hofuf,King Fahad Hospital - Hofuf (MoH),1,565.81
+C030,202501,J. ONW,Hospital,Central,Sajer,Sajer General Hospital - Riyadh -MOH,1,1870.87
+C030,202502,J. ONW,Hospital,Central,Riyadh,Saudi British Hospital,1,726.46
+C030,202503,I. SPA,Hospital,Overseas,Oman,Oman International Hospital,1,403.84
+C030,202503,I. SPA,Hospital,Southern,Ghonfodah,Southern Ghonfodah Hospital - MoH,1,486.99
+C030,202504,I. SPA,Hospital,Central,Al Zulfi,Al Zulfi General Hospital - MoH,1,2063.25
+C030,202504,J. ONW,Hospital,Eastern,Dahran,King Fahad Military Medical Complex,1,1104.27
+C030,202504,J. ONW,Hospital,Overseas,India,Apollo Hospitals - Ayanambakkam - Chennai - India,1,2249.81
+C030,202505,D. NW3,Hospital,Overseas,India,Fortis Modi Hospital - Rajasthan,1,1924.38
+C030,202505,H. NW7,Hospital,Overseas,Cairo,Dar Al Foud Hospital,1,2295.14
+C030,202505,I. SPA,Hospital,Central,Al Rass,Al Russ General Hospital - MOH,1,3359.68
+C030,202506,D. NW3,Hospital,Overseas,India,Fortis Hospital - Kalyan,1,531.61
+C030,202506,E. NW4,Hospital,Central,Riyadh,Riyadh National Hospital,1,357.32
+C030,202506,G. NW6,Hospital,Eastern,Khobar,Al Salam Hospital - Khobar,1,853.5
+C030,202506,I. SPA,Hospital,Central,Riyadh,Al Yamamah  Hospital - MOH,1,1316.52
+C030,202506,J. ONW,Hospital,Eastern,Khobar,Saad Specialist Hospital (NOT IN USE),1,2066.94
+C030,202507,I. SPA,Hospital,Central,Al Kharj,King Khalid Hospital (Al Kharj) - MoH,1,614.76
+C030,202507,I. SPA,Hospital,Southern,Bisha,King Abdullah Hospital - Bisha (MoH),1,1422.01
+C030,202507,J. ONW,Hospital,Western,Madinah,Al Ejlal Private Hospital,1,1089.18
+C030,202507,J. ONW,Hospital,Western,Turbah,Tuorbah General Hospital - MOH,1,2176.23
+C030,202507,L. NWS,Hospital,Central,Riyadh,Al Jazeera Hospital,1,1726.83
+C030,202508,D. NW3,Hospital,Overseas,India,Fortis Hospital Shalimar Bagh - New Delhi,1,324.59
+C030,202508,H. NW7,Hospital,Overseas,Kuwait,The New Mowasat Hospital,1,1363.75
+C030,202508,J. ONW,Hospital,Overseas,India,RG Stone Urology & Laparoscopy Hospital  -  Andheri - Mumbai,1,1117.55
+C030,202509,G. NW6,Hospital,Central,Riyadh,Prince Sultan Humanitarian City,1,707.33
+C030,202509,H. NW7,Hospital,Western,Jeddah,Andalusia Hospital,1,864.07
+C030,202510,H. NW7,Hospital,Central,Riyadh,Dr Soliman Fakeeh Hospital - Riyadh,1,3269.0
+C030,202510,I. SPA,Hospital,Eastern,Dammam,Dammam Medical Complex (MOH),1,527.18
+C030,202510,I. SPA,Hospital,Northern,Al Wajh,Al Wajh General Hospital - MoH,1,6828.33
+C030,202510,J. ONW,Hospital,Eastern,Jubail,Al Shabana General Hospital,1,421.83
+C030,202510,J. ONW,Hospital,Overseas,"Dubai, UAE",Prime Medical Center,1,469.44
+C030,202511,E. NW4,Hospital,Western,Jeddah,General Network Healthcare Providers Company,1,1238.39
+C030,202511,J. ONW,Hospital,Central,Riyadh,Al Hammadi Hospital,1,1667.31
+C030,202511,L. NWS,Hospital,Central,Hail,Al Anwar Medical Company,1,852.3
+C030,202512,I. SPA,Hospital,Central,Bureidah,Al Nabhaniah Hospital - MoH,1,2295.02
+C030,202512,I. SPA,Hospital,Western,Mahd Al Thahab,Al Mahd General Hospital - MoH,1,1804.37
+C030,202512,I. SPA,Hospital,Western,Yanbu,Yanbu General Hospital  - MoH,1,2481.55
+C030,202512,J. ONW,Hospital,Western,Jeddah,Magrabi Eye & Ear Center - Khozam,1,2237.15
